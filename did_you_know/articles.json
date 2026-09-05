@@ -1,0 +1,1452 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-05T08:49:29.039Z",
+  "articles": {
+    "vi": [
+      {
+        "slug": "parts-of-speech",
+        "title": "10 loại từ cơ bản: bản đồ đọc cấu trúc tiếng Anh",
+        "subtitle": "Khi biết mỗi từ đang làm nhiệm vụ gì trong câu, bạn sẽ thấy cấu trúc tiếng Anh rõ hơn: ai làm gì, làm như thế nào, ở đâu, khi nào và vì sao.",
+        "duration": "8 phút đọc",
+        "category": "Ngữ pháp nền tảng",
+        "thumbnailAsset": "did_you_know_parts_of_speech_cover.webp",
+        "coverAsset": "did_you_know_parts_of_speech_cover.webp",
+        "sections": [
+          {
+            "title": "Loại từ là 'công việc' của một từ trong câu",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một câu tiếng Anh không chỉ là một chuỗi từ để dịch lần lượt. Mỗi từ đang làm một nhiệm vụ: gọi tên người hoặc vật, chỉ hành động, mô tả, nối ý, đặt quan hệ thời gian/nơi chốn, hoặc thể hiện cảm xúc nhanh.",
+              "Khi hiểu các nhiệm vụ đó, bạn có thể đọc cấu trúc trước khi dịch nghĩa. Câu dài sẽ bớt rối vì bạn biết đâu là phần chính, đâu là phần bổ sung, và từ nào đang nối các phần lại với nhau."
+            ]
+          },
+          {
+            "title": "10 nhóm cần nhớ trước",
+            "imageAsset": "did_you_know_parts_of_speech_roles.webp",
+            "paragraphs": [
+              "Trong bài này, ta dùng 10 nhóm thực hành: noun, pronoun, verb, auxiliary/modal verb, adjective, adverb, determiner/article, preposition, conjunction và interjection.",
+              "Một số sách chỉ liệt kê 8 loại từ vì họ gộp article vào determiner, hoặc gộp auxiliary vào verb. Ở đây ta tách thành 10 nhóm để người mới dễ nhìn thấy vai trò trong câu thật.",
+              "Điểm quan trọng: một từ có thể đổi loại theo câu. Book là danh từ trong a book, nhưng là động từ trong book a ticket. Vì vậy, hãy nhìn vị trí và nhiệm vụ của từ, không chỉ nhìn mặt chữ."
+            ]
+          },
+          {
+            "title": "Nhìn một câu như bản đồ",
+            "imageAsset": "did_you_know_parts_of_speech_sentence_map.webp",
+            "paragraphs": [
+              "Ví dụ: Wow! The curious student can quickly read a book in class, and she will answer well. Câu này có cảm xúc mở đầu, cụm chủ ngữ, cụm động từ, tân ngữ, cụm giới từ và một mệnh đề nối thêm.",
+              "The curious student là cụm danh từ; can quickly read là cụm động từ; a book là tân ngữ; in class là cụm giới từ; and nối sang mệnh đề she will answer well. Khi tách như vậy, câu dài trở thành nhiều khối nhỏ dễ hiểu."
+            ]
+          },
+          {
+            "title": "Noun và pronoun: ai, cái gì, ý gì?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Noun là danh từ, dùng để gọi tên người, vật, nơi chốn, sự việc hoặc ý tưởng: student, phone, Hanoi, lesson, happiness. Danh từ thường có thể làm chủ ngữ, tân ngữ hoặc đứng sau giới từ.",
+              "Pronoun là đại từ, dùng để thay hoặc chỉ lại danh từ để câu đỡ lặp: I, you, he, she, it, we, they, this, that. Ví dụ: Anna is busy. She has a test. She thay cho Anna.",
+              "Mẹo đọc nhanh: nếu một từ trả lời cho ai/cái gì, rất có thể nó đang là noun hoặc pronoun. Sau đó nhìn xem nó đang đứng trước động từ, sau động từ hay sau giới từ để biết vai trò trong câu."
+            ]
+          },
+          {
+            "title": "Verb và auxiliary: động cơ của câu",
+            "imageAsset": null,
+            "paragraphs": [
+              "Verb là động từ chính, cho biết hành động, trạng thái hoặc sự tồn tại: read, go, learn, be, become, seem. Nếu không có động từ chính, câu tiếng Anh thường chưa thành một câu hoàn chỉnh.",
+              "Auxiliary/modal verb là trợ động từ hoặc động từ khuyết thiếu giúp động từ chính thể hiện thì, phủ định, câu hỏi, khả năng, nghĩa vụ hoặc dự đoán: be, do, have, can, should, will, must.",
+              "Ví dụ: She studies là câu khẳng định hiện tại đơn. She does not study cần does để phủ định. She can study dùng can để nói khả năng. She is studying dùng is để tạo tiếp diễn."
+            ]
+          },
+          {
+            "title": "Adjective và adverb: thêm màu và độ chính xác",
+            "imageAsset": null,
+            "paragraphs": [
+              "Adjective là tính từ, thường mô tả hoặc giới hạn danh từ: a small room, an important lesson, the first question. Tính từ cũng có thể đứng sau be hoặc động từ liên kết: The lesson is useful.",
+              "Adverb là trạng từ, thường bổ nghĩa cho động từ, tính từ, trạng từ khác hoặc cả câu. Nó trả lời các câu hỏi như làm thế nào, khi nào, ở đâu, mức độ bao nhiêu: quickly, today, here, very, probably.",
+              "Lỗi hay gặp là nhầm adjective với adverb: good là tính từ, well thường là trạng từ. Nói She speaks English well tự nhiên hơn She speaks English good."
+            ]
+          },
+          {
+            "title": "Determiner và preposition: đặt danh từ vào đúng vị trí",
+            "imageAsset": null,
+            "paragraphs": [
+              "Determiner là từ đứng trước danh từ để cho biết danh từ đó là cái nào, của ai, bao nhiêu hoặc đã xác định chưa: a, an, the, this, that, my, your, some, many. Article a/an/the là một nhóm nhỏ trong determiner.",
+              "Preposition là giới từ, thường mở đầu một cụm đi với danh từ hoặc đại từ để nói quan hệ thời gian, nơi chốn, hướng, lý do hoặc cách thức: in class, on Monday, for you, with my friend, because of the rain.",
+              "Nhìn cụm in the small room: in là preposition, the là determiner, small là adjective, room là noun. Chỉ một cụm ngắn đã có nhiều loại từ phối hợp với nhau."
+            ]
+          },
+          {
+            "title": "Conjunction và interjection: nối ý và bật cảm xúc",
+            "imageAsset": null,
+            "paragraphs": [
+              "Conjunction là liên từ, dùng để nối từ, cụm từ hoặc mệnh đề: and, but, or, because, although, if, when. Nó cho người đọc biết quan hệ giữa hai ý: thêm, đối lập, lựa chọn, nguyên nhân, điều kiện hoặc thời gian.",
+              "Interjection là thán từ, thường đứng khá độc lập để thể hiện cảm xúc hoặc gọi sự chú ý: Wow!, Oh!, Hey!, Oops! Nó không phải lõi ngữ pháp của câu, nhưng làm hội thoại tự nhiên hơn.",
+              "Trong văn viết học thuật, interjection ít xuất hiện. Trong giao tiếp, tin nhắn và hội thoại đời thường, chúng giúp câu có sắc thái người thật hơn nếu dùng vừa phải."
+            ]
+          },
+          {
+            "title": "Cách dùng 10 loại từ để đọc câu dài",
+            "imageAsset": null,
+            "paragraphs": [
+              "Bước 1: tìm lõi Subject + Verb trước. Hãy hỏi: ai/cái gì đang làm gì hoặc ở trạng thái nào? Đây là xương sống của câu.",
+              "Bước 2: mở rộng từng khối. Trước danh từ có determiner và adjective không? Sau động từ có tân ngữ không? Có adverb bổ nghĩa cho hành động không? Có preposition phrase cho biết nơi chốn, thời gian hoặc lý do không?",
+              "Bước 3: nhìn từ nối. Conjunction như because, but, although, if thường báo hiệu một mệnh đề khác. Khi gặp câu rất dài, hãy khoanh động từ, gạch chân chủ ngữ và đặt ngoặc cho các cụm giới từ."
+            ]
+          },
+          {
+            "title": "Bài luyện 5 phút mỗi ngày",
+            "imageAsset": null,
+            "paragraphs": [
+              "Mỗi ngày lấy một câu thật, ví dụ từ bài đọc hoặc phụ đề, rồi dán nhãn 5 đến 10 từ quan trọng: noun, verb, adjective, adverb, preposition. Không cần dán nhãn mọi từ ngay từ đầu.",
+              "Sau đó viết lại câu theo khung: determiner + adjective + noun + auxiliary + adverb + verb + object + preposition phrase. Ví dụ: The young girl can easily solve the puzzle at home.",
+              "Bạn không cần thuộc thuật ngữ để nói tiếng Anh tốt, nhưng hiểu vai trò loại từ giúp bạn tự sửa câu nhanh hơn: thiếu động từ, sai vị trí tính từ, thiếu mạo từ, dùng sai giới từ hoặc nối hai ý chưa đúng."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "english-tenses",
+        "title": "Các thì tiếng Anh không chỉ là công thức",
+        "subtitle": "Hiểu các thì theo trục thời gian và trạng thái hành động sẽ giúp bạn chọn thì tự nhiên hơn thay vì học thuộc rời rạc.",
+        "duration": "7 phút đọc",
+        "category": "Ngữ pháp",
+        "thumbnailAsset": "did_you_know_english_tenses_cover.webp",
+        "coverAsset": "did_you_know_english_tenses_cover.webp",
+        "sections": [
+          {
+            "title": "Thì không chỉ là bảng công thức",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi học các thì tiếng Anh, nhiều người bắt đầu bằng công thức như S + V-s/es hoặc S + have + V3. Công thức cần thiết, nhưng nó chỉ là phần nhìn thấy ở cuối.",
+              "Điều quan trọng hơn là người nói đang đặt hành động vào mốc thời gian nào, hành động đã hoàn tất chưa, đang diễn ra hay chỉ là một thói quen, và người nói muốn nhấn mạnh kết quả hay quá trình."
+            ]
+          },
+          {
+            "title": "Nhìn các thì như một bản đồ",
+            "imageAsset": "did_you_know_english_tenses_cover.webp",
+            "paragraphs": [
+              "Bạn có thể tách hệ thống thì thành hai trục. Trục thứ nhất là thời gian: hiện tại, quá khứ, tương lai, và đôi khi là tương lai trong quá khứ. Trục thứ hai là trạng thái hành động: đơn, tiếp diễn, hoàn thành, hoàn thành tiếp diễn.",
+              "Vì vậy, tên thì thường là phép ghép. Present Perfect Continuous không phải một công thức bí ẩn; nó nói về một hành động có liên hệ với hiện tại, đã kéo dài từ trước và nhấn mạnh quá trình."
+            ]
+          },
+          {
+            "title": "Nhóm hiện tại: không phải lúc nào cũng là 'ngay bây giờ'",
+            "imageAsset": null,
+            "paragraphs": [
+              "Present Simple thường nói về thói quen, sự thật, lịch trình hoặc điều có tính ổn định: She studies every night. Water boils at 100°C.",
+              "Present Continuous lại kéo người nghe vào việc đang diễn ra quanh thời điểm nói, hoặc một kế hoạch gần đã sắp xếp: She is studying now. We are meeting Anna tomorrow."
+            ]
+          },
+          {
+            "title": "Nhóm quá khứ: đóng sự việc vào một mốc đã xong",
+            "imageAsset": null,
+            "paragraphs": [
+              "Past Simple dùng khi người nói xem sự việc là đã xảy ra và kết thúc ở quá khứ: I visited Da Nang last summer. Mốc thời gian có thể nói rõ hoặc được hiểu từ ngữ cảnh.",
+              "Past Continuous nhấn mạnh một hành động đang diễn ra tại một thời điểm trong quá khứ, thường làm nền cho hành động khác: I was reading when she called."
+            ]
+          },
+          {
+            "title": "Nhóm tương lai: không chỉ có will",
+            "imageAsset": null,
+            "paragraphs": [
+              "Will thường dùng cho quyết định ngay lúc nói, dự đoán hoặc lời hứa. Be going to thường gợi ý kế hoạch đã có trước hoặc dự đoán dựa trên dấu hiệu hiện tại.",
+              "Ngoài ra, Present Continuous có thể nói về kế hoạch gần đã sắp xếp, Future Continuous nhấn mạnh việc sẽ đang diễn ra, còn Future Perfect nói về việc sẽ hoàn tất trước một mốc tương lai."
+            ]
+          },
+          {
+            "title": "Perfect: nối hai mốc thời gian",
+            "imageAsset": "did_you_know_english_tenses_perfect.webp",
+            "paragraphs": [
+              "Các thì Perfect thường không chỉ nói một việc xảy ra khi nào. Chúng nối một mốc trước đó với một mốc sau đó và hỏi: đến thời điểm này thì việc đã xong, đã có kinh nghiệm, hay đã tạo ra kết quả gì?",
+              "Present Perfect nối quá khứ với hiện tại: I have finished my homework. Past Perfect nói một việc xảy ra trước một mốc quá khứ khác. Future Perfect nói một việc sẽ xong trước một mốc tương lai."
+            ]
+          },
+          {
+            "title": "Continuous: đặt camera vào quá trình",
+            "imageAsset": "did_you_know_english_tenses_continuous.webp",
+            "paragraphs": [
+              "Các thì Continuous nhấn mạnh hành động như một quá trình đang mở ra, chưa phải một khối sự kiện hoàn tất. Vì vậy chúng hay đi với now, at that time, while hoặc các ngữ cảnh đang diễn tiến.",
+              "Một số động từ trạng thái như know, believe, like, own thường không dùng tiếp diễn trong nghĩa cơ bản. Khi chúng xuất hiện ở dạng tiếp diễn, nghĩa thường đổi sắc thái hoặc nhấn mạnh tính tạm thời."
+            ]
+          },
+          {
+            "title": "Cách chọn thì khi viết hoặc nói",
+            "imageAsset": null,
+            "paragraphs": [
+              "Đừng hỏi ngay: câu này dùng thì gì? Hãy hỏi trước: hành động nằm ở hiện tại, quá khứ hay tương lai; đó là thói quen, sự kiện đã xong, quá trình đang diễn ra, hay kết quả còn liên quan?",
+              "Sau đó nhìn dấu hiệu thời gian và mục đích diễn đạt. Yesterday thường kéo về quá khứ đơn; since và for dễ gợi hiện tại hoàn thành hoặc hoàn thành tiếp diễn; by the time thường báo hiệu một mốc để dùng Perfect."
+            ]
+          },
+          {
+            "title": "Những lỗi dễ gặp với các thì",
+            "imageAsset": null,
+            "paragraphs": [
+              "Lỗi phổ biến là dịch thẳng 'đã' thành Present Perfect trong mọi câu. Nếu câu có mốc quá khứ rõ như yesterday, last week, in 2020, thường cần Past Simple chứ không phải Present Perfect.",
+              "Một lỗi khác là dùng will cho mọi kế hoạch tương lai, quên trợ động từ trong câu phủ định/câu hỏi, hoặc dùng Continuous cho động từ trạng thái mà không để ý nghĩa đã thay đổi."
+            ]
+          },
+          {
+            "title": "Một cách luyện hiệu quả",
+            "imageAsset": null,
+            "paragraphs": [
+              "Hãy lấy cùng một sự kiện và viết nhiều phiên bản: I study English every day. I am studying now. I studied yesterday. I have studied for two years. Bạn sẽ thấy thì thay đổi góc nhìn, không chỉ đổi đuôi động từ.",
+              "Khi đọc bài tiếng Anh, gạch chân mốc thời gian, trợ động từ và dạng động từ chính. Sau đó tự hỏi: câu này nhấn vào thói quen, thời điểm, quá trình, kinh nghiệm hay kết quả? Cách này giúp bạn học thì trong ngữ cảnh thật."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "english-history",
+        "title": "Tiếng Anh đến từ đâu?",
+        "subtitle": "Lịch sử sơ lược của tiếng Anh, từ một ngôn ngữ địa phương ở quần đảo Anh đến ngôn ngữ được dùng rộng rãi trên toàn cầu.",
+        "duration": "6 phút đọc",
+        "category": "Ngôn ngữ",
+        "thumbnailAsset": "did_you_know_english_history_cover_real.webp",
+        "coverAsset": "did_you_know_english_history_cover_real.webp",
+        "sections": [
+          {
+            "title": "Một ngôn ngữ lớn lên qua nhiều lần gặp gỡ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Anh không sinh ra đã là ngôn ngữ toàn cầu. Nó bắt đầu như một nhóm phương ngữ ở quần đảo Anh, rồi thay đổi liên tục khi con người di cư, buôn bán, xâm chiếm và trao đổi văn hoá.",
+              "Vì vậy, tiếng Anh ngày nay giống một cuốn sổ tay lịch sử: trong đó có dấu vết của tiếng Germanic cổ, tiếng Bắc Âu, tiếng Pháp Norman, tiếng Latin và nhiều ngôn ngữ khác."
+            ]
+          },
+          {
+            "title": "Gốc Germanic và tiếng Anh cổ",
+            "imageAsset": "did_you_know_english_history_origins_real.webp",
+            "paragraphs": [
+              "Khoảng thế kỷ 5, các nhóm Anglo, Saxon và Jute di cư đến Anh. Ngôn ngữ của họ dần tạo thành Old English, tức tiếng Anh cổ.",
+              "Nhiều từ rất cơ bản trong đời sống vẫn mang gốc Germanic, như từ chỉ gia đình, cơ thể, nhà cửa, ăn uống và các hành động thường ngày."
+            ]
+          },
+          {
+            "title": "Viking, Norman và kho từ vựng vay mượn",
+            "imageAsset": "did_you_know_english_history_timeline_real.webp",
+            "paragraphs": [
+              "Người Viking để lại ảnh hưởng Bắc Âu trong một số từ quen thuộc. Sau đó, cuộc chinh phục Norman năm 1066 đưa tiếng Pháp Norman vào tầng lớp quản lý, luật pháp và văn hoá.",
+              "Đây là lý do tiếng Anh có nhiều cặp từ gần nghĩa nhưng sắc thái khác nhau. Một từ có thể nghe đời thường hơn, một từ khác trang trọng hơn vì đi qua tiếng Pháp hoặc Latin."
+            ]
+          },
+          {
+            "title": "Nguồn gốc xa: từ Địa Trung Hải đến Rome",
+            "imageAsset": null,
+            "paragraphs": [
+              "Bảng chữ cái tiếng Anh là một nhánh của họ chữ Latin. Xa hơn nữa, chữ Latin chịu ảnh hưởng từ chữ Hy Lạp; chữ Hy Lạp lại chịu ảnh hưởng từ chữ Phoenicia, một hệ chữ được thương nhân Địa Trung Hải dùng từ thời cổ.",
+              "Điểm quan trọng trong bước chuyển sang chữ Hy Lạp là nguyên âm được ghi bằng chữ cái riêng. Điều này làm bảng chữ cái phù hợp hơn với nhiều ngôn ngữ châu Âu, nơi nguyên âm giúp phân biệt nghĩa của từ rất rõ.",
+              "Người La Mã tiếp nhận và điều chỉnh hệ chữ đó thành bảng chữ cái Latin. Qua nhiều thế kỷ, bảng chữ cái Latin trở thành nền tảng cho cách viết của tiếng Anh."
+            ]
+          },
+          {
+            "title": "Từ rune sang chữ Latin ở Anh",
+            "imageAsset": null,
+            "paragraphs": [
+              "Trước khi chữ Latin trở thành hệ chữ chính, người Anglo-Saxon từng dùng rune, thường gọi là futhorc. Rune hợp với việc khắc trên đá, gỗ hoặc đồ vật, nên thường xuất hiện trong tên riêng, ký hiệu sở hữu và thông điệp ngắn.",
+              "Từ khoảng thế kỷ 7, Kitô giáo và văn hoá viết Latin lan rộng ở Anh. Chữ Latin dần được dùng để chép kinh sách, văn bản học thuật, hành chính và cuối cùng là để ghi tiếng Anh cổ.",
+              "Vấn đề là tiếng Anh cổ có một số âm mà bảng chữ cái Latin không có chữ sẵn. Người viết phải tìm cách mượn chữ, sửa chữ hoặc ghép chữ để ghi các âm đó."
+            ]
+          },
+          {
+            "title": "Những chữ cái từng có rồi biến mất",
+            "imageAsset": null,
+            "paragraphs": [
+              "Thorn (þ) và eth (ð) từng được dùng để ghi âm th. Trong tiếng Anh cổ, hai chữ này có thể xuất hiện khá linh hoạt cho các âm như trong thin và then, trước khi tổ hợp th trở nên quen thuộc hơn.",
+              "Wynn (ƿ) được mượn từ rune để ghi âm /w/. Về sau, người viết dùng hai chữ u hoặc v cạnh nhau để ghi âm này, từ đó hình thành chữ W, tên tiếng Anh là double-u.",
+              "Ash (æ) ghi một nguyên âm nằm giữa a và e. Yogh (ȝ) xuất phát từ dạng chữ g trong lối viết Insular và còn xuất hiện trong tiếng Anh trung đại, trước khi nhiều cách viết chuyển sang y, g hoặc gh.",
+              "Các chữ này không biến mất vì chúng sai. Chúng biến mất vì thói quen viết tay thay đổi, ảnh hưởng của người chép chữ theo kiểu Pháp Norman, và sau này là bộ chữ in châu Âu không luôn có sẵn các ký tự tiếng Anh cổ."
+            ]
+          },
+          {
+            "title": "Vì sao cuối cùng là 26 chữ?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Từ thế kỷ 15, kỹ thuật in giúp cách viết tiếng Anh ổn định hơn. Khi nhà in dùng bộ chữ kiểu châu Âu lục địa, các chữ cổ như þ, ð và ƿ dần bị thay bằng th, d hoặc w vì dễ in và dễ đọc hơn.",
+              "Trong một thời gian dài, I và J chưa tách rõ vai trò; U và V cũng từng là hai dạng của cùng một chữ. Dần dần, I và U được dùng nhiều hơn cho nguyên âm, còn J và V được dùng rõ hơn cho phụ âm.",
+              "Đến thời hiện đại, tiếng Anh ổn định với 26 chữ cái. Nhưng chính lịch sử nhiều lớp này giải thích vì sao cách viết và cách đọc tiếng Anh không phải lúc nào cũng khớp nhau một cách đơn giản."
+            ]
+          },
+          {
+            "title": "Tiếng Anh hiện đại dần ổn định",
+            "imageAsset": null,
+            "paragraphs": [
+              "Từ cuối thời Trung cổ đến thời cận đại, in ấn, thương mại, giáo dục và văn học giúp cách viết tiếng Anh dần thống nhất hơn.",
+              "Trong giai đoạn này, tiếng Anh tiếp tục mở rộng vốn từ nhờ khoa học, hàng hải, văn chương và tiếp xúc với nhiều vùng đất khác."
+            ]
+          },
+          {
+            "title": "Từ quần đảo Anh ra toàn cầu",
+            "imageAsset": "did_you_know_english_history_global_real.webp",
+            "paragraphs": [
+              "Từ thế kỷ 19 đến thế kỷ 20, thương mại, công nghệ, khoa học, điện ảnh, âm nhạc và internet khiến tiếng Anh lan rộng hơn nữa.",
+              "Ngày nay, nhiều người dùng tiếng Anh như ngôn ngữ chung để học tập, làm việc và kết nối quốc tế, kể cả khi họ không phải người bản xứ."
+            ]
+          },
+          {
+            "title": "Học tiếng Anh dễ hơn khi hiểu nguồn gốc",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi biết tiếng Anh được tạo nên từ nhiều lớp lịch sử, bạn sẽ bớt ngạc nhiên trước các cách viết, cách đọc và nhóm từ có vẻ không theo quy luật.",
+              "Một cách học tốt là nhìn từ mới theo gia đình từ, nguồn gốc và ngữ cảnh sử dụng. Bạn không chỉ nhớ nghĩa, mà còn hiểu vì sao từ đó được dùng như vậy."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "eye-contact",
+        "title": "Eye contact: nhìn mắt thế nào cho tự nhiên?",
+        "subtitle": "Eye contact không phải là nhìn chằm chằm. Đây là kỹ năng dùng ánh mắt vừa đủ để thể hiện sự tự tin, chú ý và tôn trọng khi giao tiếp.",
+        "duration": "5 phút đọc",
+        "category": "Giao tiếp",
+        "thumbnailAsset": "did_you_know_eye_contact_cover.webp",
+        "coverAsset": "did_you_know_eye_contact_cover.webp",
+        "sections": [
+          {
+            "title": "Eye contact là gì?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Eye contact là việc nhìn vào mắt hoặc vùng quanh mắt của người đối diện khi nói chuyện. Trong giao tiếp tiếng Anh, nó thường được xem là dấu hiệu của sự tự tin, trung thực và đang lắng nghe.",
+              "Điểm quan trọng là eye contact tốt không có nghĩa là nhìn liên tục. Cảm giác tự nhiên đến từ việc nhìn, ngắt nhẹ, rồi quay lại đúng lúc."
+            ]
+          },
+          {
+            "title": "Vì sao eye contact quan trọng?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi bạn đang nghe, ánh mắt cho người nói biết rằng bạn vẫn theo dõi câu chuyện. Một cái gật đầu nhỏ kết hợp với eye contact sẽ tạo cảm giác rất khác so với việc nhìn xuống điện thoại.",
+              "Khi bạn đang nói, eye contact giúp lời nói có trọng lượng hơn. Người nghe dễ cảm thấy bạn chắc chắn với điều mình nói và đang thật sự nói với họ.",
+              "Eye contact cũng giúp bạn đọc phản ứng của người đối diện: họ đang hiểu, bối rối, đồng ý, hay muốn hỏi thêm."
+            ]
+          },
+          {
+            "title": "Mẹo dễ áp dụng: nhìn vào tam giác giao tiếp",
+            "imageAsset": "did_you_know_eye_contact_triangle.webp",
+            "paragraphs": [
+              "Nếu bạn ngại nhìn thẳng vào mắt, hãy nhìn vào vùng tam giác giữa hai mắt và sống mũi. Người đối diện thường vẫn cảm nhận như bạn đang eye contact.",
+              "Cách này đặc biệt hữu ích khi phỏng vấn, thuyết trình hoặc nói chuyện với người mới quen, vì nó giúp ánh mắt mềm hơn và bớt căng thẳng.",
+              "Bạn có thể luyện bằng cách nhìn vào một điểm gần mắt trong 3 đến 5 giây, sau đó nhìn nhẹ sang chỗ khác trước khi quay lại."
+            ]
+          },
+          {
+            "title": "Nhìn bao lâu là vừa?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Trong hội thoại bình thường, khi nghe bạn có thể nhìn nhiều hơn, khoảng 60 đến 70 phần trăm thời gian. Khi nói, bạn có thể nhìn ít hơn một chút vì cần thời gian nghĩ ý tiếp theo.",
+              "Một nhịp đơn giản là: nhìn khi người kia nói ý chính, nhìn lệch nhẹ khi bạn đang suy nghĩ, rồi quay lại khi phản hồi hoặc nhấn mạnh thông tin quan trọng.",
+              "Nếu cảm thấy cuộc trò chuyện bắt đầu căng, hãy giảm thời lượng nhìn và dùng biểu cảm nhẹ hơn. Eye contact tốt phải làm người khác thấy được tôn trọng, không bị áp lực."
+            ]
+          },
+          {
+            "title": "Eye contact khác với nhìn chằm chằm",
+            "imageAsset": "did_you_know_eye_contact_comparison.webp",
+            "paragraphs": [
+              "Lỗi phổ biến nhất là nhìn quá lâu mà không chớp mắt hoặc không đổi hướng nhìn. Điều này dễ khiến người đối diện thấy bị soi xét.",
+              "Ngược lại, nhìn xuống quá nhiều hoặc liên tục né mắt có thể làm bạn trông thiếu tự tin, thiếu quan tâm hoặc chưa chuẩn bị kỹ.",
+              "Mục tiêu không phải là thắng một cuộc thi nhìn lâu. Mục tiêu là tạo nhịp giao tiếp tự nhiên: đủ nhìn để kết nối, đủ ngắt để người khác thấy thoải mái."
+            ]
+          },
+          {
+            "title": "Khi thuyết trình hoặc nói chuyện nhóm",
+            "imageAsset": null,
+            "paragraphs": [
+              "Đừng chỉ nhìn một người. Hãy chia người nghe thành vài khu vực: trái, giữa và phải. Mỗi lần nhìn một khu vực khoảng 2 đến 4 giây rồi chuyển sang khu vực khác.",
+              "Khi nói một ý quan trọng, hãy nhìn vào một người hoặc một cụm nhỏ thay vì quét mắt quá nhanh. Cách này làm bài nói chắc hơn và người nghe cảm thấy được kết nối."
+            ]
+          },
+          {
+            "title": "Lưu ý về văn hoá",
+            "imageAsset": null,
+            "paragraphs": [
+              "Ở nhiều môi trường phương Tây, eye contact vừa phải thường được hiểu là tự tin và đáng tin. Tuy nhiên, ở một số bối cảnh châu Á, nhìn quá lâu vào người lớn tuổi hoặc cấp trên có thể bị xem là thiếu tinh tế.",
+              "Vì vậy, hãy quan sát phản ứng của người đối diện. Nếu họ nhìn tránh đi nhiều hoặc có vẻ không thoải mái, hãy giảm cường độ eye contact và dùng giọng nói, nụ cười, cử chỉ để giữ sự thân thiện."
+            ]
+          },
+          {
+            "title": "Cách luyện nhanh",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi luyện nói tiếng Anh, hãy ghi hình 30 giây phần trả lời của bạn. Xem lại xem bạn có nhìn xuống quá lâu, nhìn lệch quá nhiều, hay nhìn chằm chằm vào một điểm không.",
+              "Một bài tập đơn giản là nói 3 câu, mỗi câu nhìn vào camera hoặc người nghe trong vài giây, sau đó ngắt nhẹ. Khi nhịp này trở thành thói quen, eye contact sẽ tự nhiên hơn."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "vietnamese-english-mistakes",
+        "title": "Lỗi tiếng Anh người Việt hay mắc",
+        "subtitle": "Nhiều lỗi đến từ việc dịch thẳng cấu trúc tiếng Việt sang tiếng Anh. Nhận ra mẫu lỗi, rồi thay bằng cụm tiếng Anh tự nhiên.",
+        "duration": "5 phút đọc",
+        "category": "Mẹo học",
+        "thumbnailAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "coverAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "sections": [
+          {
+            "title": "Phần lớn lỗi đều có lý do",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt và tiếng Anh sắp xếp ý nghĩa theo hai cách khác nhau. Tiếng Việt thường không cần đánh dấu thì, mạo từ, số nhiều hoặc một số từ nối nếu ngữ cảnh đã rõ; tiếng Anh lại thường cần các dấu hiệu đó trong câu.",
+              "Vì vậy, mắc lỗi không có nghĩa là bạn kém tiếng Anh. Nhiều khi đó chỉ là dấu hiệu cho thấy não đang dùng thói quen tiếng Việt trong một câu tiếng Anh."
+            ]
+          },
+          {
+            "title": "Đừng đặt very trước mọi động từ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vì tiếng Việt nói 'rất thích', người học dễ viết: I very like this lesson. Trong tiếng Anh, very thường bổ nghĩa cho tính từ hoặc trạng từ, không đứng trực tiếp trước động từ hành động.",
+              "Hãy dùng: I really like this lesson, I like this lesson very much, hoặc I like this lesson a lot. Giữ very cho các cụm như very good, very useful, very quickly."
+            ]
+          },
+          {
+            "title": "Because và so: thường chỉ chọn một",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt có cặp 'vì ... nên ...', nên người học hay viết: Because I was tired, so I went home. Trong tiếng Anh chuẩn, because và so thường không đi chung để nối cùng một quan hệ nguyên nhân-kết quả.",
+              "Chọn một trong hai: Because I was tired, I went home. Hoặc: I was tired, so I went home. Chỉ sửa điểm này thôi câu đã gọn và tự nhiên hơn."
+            ]
+          },
+          {
+            "title": "Đừng bỏ quên các đuôi nhỏ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Từ tiếng Việt không đổi dạng theo chủ ngữ, thời gian hay số lượng, nên các đuôi như -s, -ed và số nhiều -s trong tiếng Anh rất dễ bị quên.",
+              "Hãy kiểm tra ba chỗ: động từ ngôi thứ ba số ít (She works), động từ quá khứ (I watched), và danh từ đếm được số nhiều (two questions). Những đuôi nhỏ này mang nhiều thông tin ngữ pháp."
+            ]
+          },
+          {
+            "title": "A, an, the cần được để ý",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt không có mạo từ tương đương trực tiếp với a/an/the. Tiếng Anh dùng mạo từ để cho biết một vật là mới nhắc đến, đã xác định, duy nhất, hay người nghe đã biết.",
+              "Ví dụ: I bought a book. The book is useful. Dùng a/an khi giới thiệu một vật đếm được lần đầu, và dùng the khi người nghe biết chính xác bạn đang nói tới vật nào."
+            ]
+          },
+          {
+            "title": "Vị trí tính từ và trạng từ không giống tiếng Việt",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt có thể đặt phần miêu tả sau danh từ, nhưng tiếng Anh thường đặt tính từ thông dụng trước danh từ: a beautiful house, không phải a house beautiful.",
+              "Với trạng từ, hãy học theo cụm thay vì dịch từng từ: speak English well, work very hard, go home early, arrive at school on time."
+            ]
+          },
+          {
+            "title": "Giới từ hiếm khi dịch từng chữ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một lựa chọn nghe hợp lý trong tiếng Việt có thể dẫn đến giới từ sai trong tiếng Anh. Người học dễ nói depend of, married with, discuss about hoặc good in English.",
+              "Hãy nhớ cả cụm: depend on, married to, discuss something, good at English, interested in, responsible for. Học theo cụm an toàn hơn học một giới từ rời."
+            ]
+          },
+          {
+            "title": "Âm cuối có thể làm đổi nghĩa",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt có ít cụm phụ âm cuối hơn tiếng Anh, nên các âm cuối như /s/, /z/, /t/, /d/, /k/ và /n/ dễ bị đọc quá nhẹ hoặc mất hẳn.",
+              "Hãy luyện âm cuối cùng với cả từ: likes, watched, asked, next, friend. Không cần đọc đuôi thật mạnh; chỉ cần đủ rõ để người nghe nhận ra."
+            ]
+          },
+          {
+            "title": "Một thói quen sửa lỗi nhanh",
+            "imageAsset": null,
+            "paragraphs": [
+              "Sau khi viết hoặc nói, tự hỏi ba câu: Mình đã thêm mạo từ cần thiết chưa? Động từ đã thể hiện đúng thời gian hoặc chủ ngữ chưa? Giới từ có đi theo cụm mình đã học chưa?",
+              "Sửa được các mẫu này sẽ tạo thay đổi lớn, vì những lỗi nhỏ giống nhau xuất hiện trong email, bài nói, phỏng vấn và giao tiếp hằng ngày."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "one-word-many-meanings",
+        "title": "Một từ quen nhưng có nhiều nghĩa",
+        "subtitle": "Các từ như get, take, make, do, go hay keep không chỉ có một nghĩa. Học theo cụm và ngữ cảnh giúp bạn dùng chúng tự nhiên hơn.",
+        "duration": "6 phút đọc",
+        "category": "Từ vựng",
+        "thumbnailAsset": "did_you_know_one_word_many_meanings.webp",
+        "coverAsset": "did_you_know_one_word_many_meanings.webp",
+        "sections": [
+          {
+            "title": "Vì sao một từ lại có nhiều nghĩa?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Trong tiếng Anh, những từ xuất hiện nhiều nhất thường cũng linh hoạt nhất. Chúng đi với nhiều danh từ, tính từ, giới từ và tình huống khác nhau, nên nghĩa thay đổi theo cụm.",
+              "Vì vậy, đừng học theo kiểu một từ tiếng Anh bằng đúng một từ tiếng Việt. Cách thực tế hơn là học cụm: từ đó đi với gì, xuất hiện trong tình huống nào, và cả câu có ý gì."
+            ]
+          },
+          {
+            "title": "Từ càng quen càng dễ linh hoạt",
+            "imageAsset": null,
+            "paragraphs": [
+              "Những từ như get, take, make, do, go, come, have, keep, run, work, look, put, break, turn xuất hiện trong rất nhiều hoàn cảnh. Vì dùng nhiều, chúng dần có nhiều lớp nghĩa.",
+              "Điểm cần nhớ là nghĩa không nằm riêng trong một chữ. Nghĩa thường nằm trong cả cụm: take a break, make a decision, do homework, go wrong, come true, keep calm."
+            ]
+          },
+          {
+            "title": "Get và take: nhận, lấy, dùng, mất thời gian",
+            "imageAsset": null,
+            "paragraphs": [
+              "Get có thể là nhận được, hiểu, trở nên hoặc đến nơi: I got your message, I don’t get it, It’s getting cold, We got home late.",
+              "Take cũng rất rộng: take a photo = chụp ảnh, take a break = nghỉ giải lao, take medicine = uống thuốc, It takes ten minutes = mất mười phút."
+            ]
+          },
+          {
+            "title": "Make và do: tạo ra hay xử lý việc cần làm",
+            "imageAsset": null,
+            "paragraphs": [
+              "Make thường liên quan đến tạo ra, gây ra hoặc đưa ra kết quả: make a cake, make money, make a decision, make someone happy.",
+              "Do thường đi với công việc, bài tập, nhiệm vụ hoặc hành động chung: do homework, do exercise, do the dishes, do your best."
+            ]
+          },
+          {
+            "title": "Go và come: không chỉ là đi và đến",
+            "imageAsset": null,
+            "paragraphs": [
+              "Go ngoài nghĩa đi còn có thể chỉ sự thay đổi hoặc diễn biến: go wrong = gặp trục trặc, go bad = bị hỏng, go quiet = trở nên im lặng.",
+              "Come không chỉ là đến. Come back = quay lại, come true = thành sự thật, come first = đứng đầu hoặc xuất hiện trước, come with = đi kèm."
+            ]
+          },
+          {
+            "title": "Have và keep: có, trải nghiệm, giữ, tiếp tục",
+            "imageAsset": null,
+            "paragraphs": [
+              "Have có thể là sở hữu, ăn uống, trải nghiệm hoặc phải làm gì đó: have a car, have lunch, have a good time, have to leave.",
+              "Keep có thể là giữ, cất, duy trì hoặc tiếp tục: keep a secret, keep calm, keep going, keep your phone in your bag."
+            ]
+          },
+          {
+            "title": "Run và work: chạy, vận hành, có hiệu quả",
+            "imageAsset": null,
+            "paragraphs": [
+              "Run có thể là chạy bộ, vận hành máy, quản lý việc gì, hoặc sắp hết: run fast, run a company, The app is running, run out of time.",
+              "Work không chỉ là làm việc. Nó còn có nghĩa là hoạt động hoặc có hiệu quả: My phone doesn’t work, This plan works, She works part-time."
+            ]
+          },
+          {
+            "title": "Look, put, break, turn: nghĩa đổi theo cụm",
+            "imageAsset": null,
+            "paragraphs": [
+              "Look có thể là nhìn, trông có vẻ, tìm kiếm hoặc chăm sóc: look at, look tired, look for, look after.",
+              "Put là đặt hoặc đưa vào một trạng thái/cách nói: put on a jacket, put away your books. Break có thể là làm vỡ, nghỉ, vi phạm. Turn có thể là rẽ, xoay, trở thành hoặc đến lượt."
+            ]
+          },
+          {
+            "title": "Cách học nhóm từ này",
+            "imageAsset": null,
+            "paragraphs": [
+              "Đừng cố học hết mọi nghĩa của một từ trong một lần. Mỗi ngày chọn một từ quen, gom vài cụm phổ biến, rồi đặt câu gần với đời sống của bạn.",
+              "Ví dụ: take a break, make a decision, do homework, go home, come back, have lunch, keep calm, run out of time, work well. Khi ghi chú, hãy ghi cả cụm và cả câu, không chỉ ghi một chữ rời."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "everyday-conversation-phrases",
+        "title": "Cụm giao tiếp đời thường",
+        "subtitle": "Nói tự nhiên hơn không chỉ nhờ biết nhiều từ, mà còn nhờ nhớ các cụm ngắn người bản xứ dùng mỗi ngày.",
+        "duration": "6 phút đọc",
+        "category": "Giao tiếp",
+        "thumbnailAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "coverAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "sections": [
+          {
+            "title": "Giao tiếp đời thường thường đi theo cụm",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi nói chuyện, người ta hiếm khi ghép từng từ một cách chậm rãi. Họ dùng những cụm có sẵn như No worries, Sounds good, Let me know, On my way.",
+              "Học cụm giúp bạn phản xạ nhanh hơn, vì bạn không phải dịch từng chữ từ tiếng Việt sang tiếng Anh trong lúc đang nói."
+            ]
+          },
+          {
+            "title": "Vì sao cụm ngắn lại quan trọng?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một cụm ngắn thường mang cả nghĩa, sắc thái và mức độ lịch sự. For me, okay và Sounds good đều có thể là đồng ý, nhưng Sounds good nghe tự nhiên và thân thiện hơn trong nhiều tình huống.",
+              "Khi học cụm, hãy học luôn tình huống dùng: dùng với bạn bè, đồng nghiệp, người lạ, tin nhắn, cuộc gọi hay cuộc hẹn."
+            ]
+          },
+          {
+            "title": "Mở đầu cuộc trò chuyện",
+            "imageAsset": null,
+            "paragraphs": [
+              "Các cụm như How's it going?, What's up?, Long time no see, How have you been? giúp bạn mở lời nhẹ nhàng hơn Hello lặp đi lặp lại.",
+              "Ví dụ: How's it going? = Dạo này thế nào? Long time no see. = Lâu rồi không gặp. How have you been? = Dạo này bạn thế nào?"
+            ]
+          },
+          {
+            "title": "Phản hồi ngắn nhưng tự nhiên",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi đồng ý hoặc đáp lại, bạn có thể dùng Sounds good, Sure thing, No problem, No worries, That's fine, Fair enough.",
+              "Sounds good = Nghe ổn đó. No worries = Không sao đâu. Fair enough = Cũng hợp lý. Các cụm này làm câu trả lời bớt cứng và giống hội thoại thật hơn."
+            ]
+          },
+          {
+            "title": "Hẹn lịch và sắp xếp kế hoạch",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi rủ ai đó hoặc thống nhất thời gian, các cụm hay gặp là Are you free?, That works for me, I'm on my way, Let's catch up, See you then.",
+              "That works for me = Thời gian đó ổn với tôi. I'm on my way = Tôi đang trên đường. Let's catch up = Hôm nào gặp nói chuyện nhé."
+            ]
+          },
+          {
+            "title": "Nhờ vả và yêu cầu lịch sự",
+            "imageAsset": null,
+            "paragraphs": [
+              "Thay vì nói Give me hoặc Help me quá trực tiếp, hãy dùng Could you...?, Can I get...?, Would you mind...?, Do you have a minute?",
+              "Could you help me with this? = Bạn giúp tôi việc này được không? Can I get a coffee? = Cho tôi một ly cà phê được không? Do you have a minute? = Bạn có rảnh một chút không?"
+            ]
+          },
+          {
+            "title": "Khi chưa hiểu hoặc muốn làm rõ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Đừng chỉ im lặng khi không hiểu. Bạn có thể nói Sorry, what do you mean?, Could you say that again?, Just to be clear..., Let me check.",
+              "Just to be clear, we meet at 8, right? = Cho rõ lại nhé, chúng ta gặp lúc 8 giờ đúng không? Let me check. = Để tôi kiểm tra lại."
+            ]
+          },
+          {
+            "title": "Cụm nối ý trong lúc nói",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một số cụm nhỏ giúp câu nói mềm hơn: By the way, Actually, I mean, Kind of, I guess, You know. Chúng thường dùng khi đổi ý, sửa ý hoặc thêm thông tin.",
+              "By the way = Nhân tiện. Actually = Thật ra. I mean = Ý tôi là. Hãy dùng vừa phải; quá nhiều filler sẽ làm câu nói thiếu gọn."
+            ]
+          },
+          {
+            "title": "Kết thúc và theo dõi sau cuộc nói chuyện",
+            "imageAsset": null,
+            "paragraphs": [
+              "Sau khi trao đổi, các cụm như Let me know, I'll get back to you, Keep me posted, Talk to you later, See you around rất hữu ích.",
+              "Let me know = Báo tôi biết nhé. I'll get back to you = Tôi sẽ phản hồi lại sau. Keep me posted = Có gì cập nhật cho tôi nhé."
+            ]
+          },
+          {
+            "title": "Cách luyện cụm giao tiếp",
+            "imageAsset": null,
+            "paragraphs": [
+              "Mỗi ngày chọn 5 cụm và đặt chúng vào một đoạn hội thoại ngắn. Ví dụ: Are you free tonight? Sounds good. I'm on my way. Let me know if anything changes.",
+              "Đừng chỉ học nghĩa tiếng Việt. Hãy đọc to cả cụm, nghe nhịp câu, rồi dùng lại trong tin nhắn hoặc câu nói thật của bạn."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "confusing-english-words",
+        "title": "Khác nhau giữa các từ dễ nhầm",
+        "subtitle": "Nhiều từ tiếng Anh dịch sang tiếng Việt khá giống nhau, nhưng cách dùng lại khác. Học theo tình huống sẽ giúp bạn chọn từ đúng nhanh hơn.",
+        "duration": "7 phút đọc",
+        "category": "Từ vựng",
+        "thumbnailAsset": "did_you_know_confusing_english_words.webp",
+        "coverAsset": "did_you_know_confusing_english_words.webp",
+        "sections": [
+          {
+            "title": "Dễ nhầm vì nghĩa tiếng Việt quá gần nhau",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một lỗi phổ biến khi học từ vựng là thấy hai từ cùng dịch ra một nghĩa tiếng Việt rồi dùng thay thế cho nhau. Ví dụ say, tell, speak, talk đều liên quan đến nói, nhưng không đứng trong câu giống nhau.",
+              "Cách học tốt hơn là nhìn vào vai trò của từ trong câu: có cần người nghe không, có cần tân ngữ không, hành động có chủ động không, và cụm nào thường đi kèm."
+            ]
+          },
+          {
+            "title": "Đừng chỉ hỏi 'nghĩa là gì'",
+            "imageAsset": null,
+            "paragraphs": [
+              "Với từ dễ nhầm, câu hỏi quan trọng hơn là: từ này dùng khi nào, đi với từ nào, và khác từ kia ở điểm nào. Một ví dụ đúng thường giá trị hơn một bản dịch ngắn.",
+              "Khi ghi chú, hãy viết theo cặp: từ A dùng cho tình huống nào, từ B dùng cho tình huống nào, rồi đặt hai câu mẫu cạnh nhau để thấy sự khác biệt."
+            ]
+          },
+          {
+            "title": "Say, tell, speak, talk",
+            "imageAsset": null,
+            "paragraphs": [
+              "Say tập trung vào lời được nói: She said hello. Tell thường cần người nghe hoặc thông tin được truyền: Tell me the truth. Tell him your name.",
+              "Speak thường nghiêng về khả năng/ngôn ngữ hoặc tình huống trang trọng: She speaks English. May I speak to Anna? Talk thiên về cuộc trò chuyện: We talked for an hour."
+            ]
+          },
+          {
+            "title": "Hear và listen",
+            "imageAsset": null,
+            "paragraphs": [
+              "Hear là nghe thấy âm thanh một cách tự nhiên, không nhất thiết cố ý. I heard a noise outside = Tôi nghe thấy tiếng động bên ngoài.",
+              "Listen là lắng nghe có chủ ý, thường đi với to khi có đối tượng: Listen to this song. Please listen carefully."
+            ]
+          },
+          {
+            "title": "See, look, watch",
+            "imageAsset": null,
+            "paragraphs": [
+              "See là nhìn thấy bằng mắt, thường không nhấn mạnh sự cố ý: I saw him at school. Look là hướng mắt về phía nào đó: Look at the board.",
+              "Watch là nhìn trong một khoảng thời gian vì có chuyển động hoặc diễn biến: watch a movie, watch a game, watch the children play."
+            ]
+          },
+          {
+            "title": "Borrow và lend",
+            "imageAsset": null,
+            "paragraphs": [
+              "Borrow là mượn từ phía người nhận. Can I borrow your pen? = Tôi có thể mượn bút của bạn không?",
+              "Lend là cho mượn từ phía người đưa. Can you lend me your pen? = Bạn có thể cho tôi mượn bút không? Hai câu gần nghĩa nhưng góc nhìn ngược nhau."
+            ]
+          },
+          {
+            "title": "Bring và take",
+            "imageAsset": null,
+            "paragraphs": [
+              "Bring thường là mang đến nơi người nói hoặc người nghe đang hướng tới: Please bring your notebook to class.",
+              "Take thường là mang đi khỏi vị trí hiện tại hoặc mang theo đến nơi khác: Take an umbrella with you. I took my laptop to work."
+            ]
+          },
+          {
+            "title": "Make và do",
+            "imageAsset": null,
+            "paragraphs": [
+              "Make thường liên quan đến tạo ra kết quả hoặc sản phẩm: make a cake, make a plan, make a decision, make progress.",
+              "Do thường đi với nhiệm vụ, bài tập, việc nhà hoặc hành động chung: do homework, do exercise, do the dishes, do your best."
+            ]
+          },
+          {
+            "title": "Fun và funny",
+            "imageAsset": null,
+            "paragraphs": [
+              "Fun nói về sự vui, thú vị, đáng tận hưởng: The trip was fun. We had a fun day.",
+              "Funny thường nghĩa là gây cười hoặc kỳ lạ tùy ngữ cảnh: That joke is funny. This milk smells funny = Sữa này có mùi lạ."
+            ]
+          },
+          {
+            "title": "Late, later, lately",
+            "imageAsset": null,
+            "paragraphs": [
+              "Late nghĩa là muộn hoặc trễ: I was late for class. Later nghĩa là sau đó hoặc lát nữa: See you later.",
+              "Lately nghĩa là gần đây, thường dùng với hiện tại hoàn thành hoặc nói về tình hình gần đây: I haven't slept well lately."
+            ]
+          },
+          {
+            "title": "Cách luyện từ dễ nhầm",
+            "imageAsset": null,
+            "paragraphs": [
+              "Chọn một cặp từ, viết hai câu thật ngắn, rồi tự hỏi: câu nào cần người nghe, câu nào nói về hành động có chủ ý, câu nào là mang đến hay mang đi?",
+              "Bạn có thể tạo sổ tay theo mẫu: từ dễ nhầm, điểm khác nhau, cụm đi kèm, ví dụ đúng, ví dụ sai cần tránh. Học ít cặp nhưng dùng được sẽ hiệu quả hơn học danh sách dài."
+            ]
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "slug": "parts-of-speech",
+        "title": "10 basic parts of speech: a map for English structure",
+        "subtitle": "When you know what job each word is doing, English sentences become clearer: who does what, how, where, when, and why.",
+        "duration": "8 min read",
+        "category": "Grammar foundations",
+        "thumbnailAsset": "did_you_know_parts_of_speech_cover.webp",
+        "coverAsset": "did_you_know_parts_of_speech_cover.webp",
+        "sections": [
+          {
+            "title": "A part of speech is a word's job in a sentence",
+            "imageAsset": null,
+            "paragraphs": [
+              "An English sentence is not just a line of words to translate one by one. Each word is doing a job: naming a person or thing, showing action, describing, connecting ideas, showing time or place, or adding a quick feeling.",
+              "When you understand those jobs, you can read the structure before translating the meaning. Long sentences become less confusing because you can see the main part, the extra parts, and the words that connect them."
+            ]
+          },
+          {
+            "title": "The 10 groups to learn first",
+            "imageAsset": "did_you_know_parts_of_speech_roles.webp",
+            "paragraphs": [
+              "In this article, we use 10 practical groups: noun, pronoun, verb, auxiliary/modal verb, adjective, adverb, determiner/article, preposition, conjunction, and interjection.",
+              "Some grammar books list only 8 parts of speech because they group articles under determiners, or auxiliaries under verbs. Here, we separate them into 10 groups so beginners can see the jobs more clearly in real sentences.",
+              "The important point: one word can change its part of speech depending on the sentence. Book is a noun in a book, but a verb in book a ticket. Look at position and job, not only the word form."
+            ]
+          },
+          {
+            "title": "Read a sentence like a map",
+            "imageAsset": "did_you_know_parts_of_speech_sentence_map.webp",
+            "paragraphs": [
+              "Example: Wow! The curious student can quickly read a book in class, and she will answer well. This sentence has an opening feeling, a subject phrase, a verb phrase, an object, a preposition phrase, and one connected clause.",
+              "The curious student is a noun phrase; can quickly read is a verb phrase; a book is the object; in class is a preposition phrase; and connects the next clause, she will answer well. When you split it like this, a long sentence becomes smaller and easier to understand."
+            ]
+          },
+          {
+            "title": "Nouns and pronouns: who, what, or which idea?",
+            "imageAsset": null,
+            "paragraphs": [
+              "A noun names a person, thing, place, event, or idea: student, phone, Hanoi, lesson, happiness. Nouns can often be subjects, objects, or the words after prepositions.",
+              "A pronoun replaces or points back to a noun so the sentence does not repeat the same name too much: I, you, he, she, it, we, they, this, that. Example: Anna is busy. She has a test. She refers to Anna.",
+              "Quick reading tip: if a word answers who or what, it is probably working as a noun or pronoun. Then check whether it comes before a verb, after a verb, or after a preposition."
+            ]
+          },
+          {
+            "title": "Verbs and auxiliaries: the engine of the sentence",
+            "imageAsset": null,
+            "paragraphs": [
+              "The main verb shows action, state, or existence: read, go, learn, be, become, seem. Without a main verb, an English sentence is usually not complete.",
+              "An auxiliary or modal verb helps the main verb show tense, negatives, questions, ability, obligation, or prediction: be, do, have, can, should, will, must.",
+              "For example: She studies is a present simple statement. She does not study needs does for the negative. She can study uses can for ability. She is studying uses is to form the continuous."
+            ]
+          },
+          {
+            "title": "Adjectives and adverbs: add detail and precision",
+            "imageAsset": null,
+            "paragraphs": [
+              "An adjective describes or limits a noun: a small room, an important lesson, the first question. It can also come after be or linking verbs: The lesson is useful.",
+              "An adverb often modifies a verb, adjective, another adverb, or the whole sentence. It answers questions like how, when, where, or how much: quickly, today, here, very, probably.",
+              "A common mistake is mixing adjectives and adverbs. Good is an adjective; well is usually an adverb. She speaks English well sounds more natural than She speaks English good."
+            ]
+          },
+          {
+            "title": "Determiners and prepositions: place nouns correctly",
+            "imageAsset": null,
+            "paragraphs": [
+              "A determiner comes before a noun to show which one, whose one, how many, or whether the noun is already known: a, an, the, this, that, my, your, some, many. Articles a/an/the are a small group inside determiners.",
+              "A preposition usually begins a phrase with a noun or pronoun to show a relationship of time, place, direction, reason, or manner: in class, on Monday, for you, with my friend, because of the rain.",
+              "Look at the phrase in the small room: in is a preposition, the is a determiner, small is an adjective, and room is a noun. Even a short phrase can combine several parts of speech."
+            ]
+          },
+          {
+            "title": "Conjunctions and interjections: connect ideas and show feeling",
+            "imageAsset": null,
+            "paragraphs": [
+              "A conjunction connects words, phrases, or clauses: and, but, or, because, although, if, when. It tells the reader how two ideas relate: addition, contrast, choice, reason, condition, or time.",
+              "An interjection is usually separate from the grammar core and expresses a quick feeling or gets attention: Wow!, Oh!, Hey!, Oops! It is not the backbone of the sentence, but it makes conversation sound more natural.",
+              "Interjections are rare in academic writing. In conversation, messages, and everyday dialogue, they add a more human tone when used lightly."
+            ]
+          },
+          {
+            "title": "How to use the 10 parts to read long sentences",
+            "imageAsset": null,
+            "paragraphs": [
+              "Step 1: find the Subject + Verb core first. Ask: who or what is doing something, or who or what is in a state? This is the backbone of the sentence.",
+              "Step 2: expand each block. Does the noun have a determiner or adjective before it? Does the verb have an object? Is there an adverb modifying the action? Is there a preposition phrase showing place, time, or reason?",
+              "Step 3: watch the connectors. Conjunctions such as because, but, although, and if often introduce another clause. For very long sentences, circle verbs, underline subjects, and bracket preposition phrases."
+            ]
+          },
+          {
+            "title": "A 5-minute daily practice",
+            "imageAsset": null,
+            "paragraphs": [
+              "Each day, take one real sentence from a reading passage or subtitle and label 5 to 10 important words: noun, verb, adjective, adverb, preposition. You do not need to label every word at first.",
+              "Then rewrite a sentence using this frame: determiner + adjective + noun + auxiliary + adverb + verb + object + preposition phrase. Example: The young girl can easily solve the puzzle at home.",
+              "You do not need grammar terms to speak well, but understanding word jobs helps you fix sentences faster: missing verbs, adjective position, missing articles, wrong prepositions, or unclear connections between ideas."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "english-tenses",
+        "title": "English tenses are more than formulas",
+        "subtitle": "When you understand tenses through time and action state, choosing the right tense becomes more natural than memorizing isolated patterns.",
+        "duration": "7 min read",
+        "category": "Grammar",
+        "thumbnailAsset": "did_you_know_english_tenses_cover.webp",
+        "coverAsset": "did_you_know_english_tenses_cover.webp",
+        "sections": [
+          {
+            "title": "A tense is not only a formula table",
+            "imageAsset": null,
+            "paragraphs": [
+              "When learners study English tenses, they often begin with formulas such as S + V-s/es or S + have + V3. Formulas are useful, but they are only the visible surface.",
+              "The deeper question is where the speaker places the action in time, whether it is finished, in progress, habitual, or connected to a result, and whether the speaker wants to highlight the outcome or the process."
+            ]
+          },
+          {
+            "title": "Read the tenses like a map",
+            "imageAsset": "did_you_know_english_tenses_cover.webp",
+            "paragraphs": [
+              "You can separate the tense system into two axes. The first axis is time: present, past, future, and sometimes future in the past. The second axis is action state: simple, continuous, perfect, and perfect continuous.",
+              "That is why tense names are often combinations. Present Perfect Continuous is not a mysterious formula; it describes an action connected to now, continuing from before, with attention on the process."
+            ]
+          },
+          {
+            "title": "The present group: not always right now",
+            "imageAsset": null,
+            "paragraphs": [
+              "Present Simple often talks about habits, facts, schedules, or stable situations: She studies every night. Water boils at 100°C.",
+              "Present Continuous pulls the listener into something happening around now, or a near arrangement that has already been planned: She is studying now. We are meeting Anna tomorrow."
+            ]
+          },
+          {
+            "title": "The past group: placing events in a finished time",
+            "imageAsset": null,
+            "paragraphs": [
+              "Past Simple is used when the speaker sees the event as happening and ending in the past: I visited Da Nang last summer. The time can be stated or understood from context.",
+              "Past Continuous highlights an action in progress at a past moment, often as the background for another action: I was reading when she called."
+            ]
+          },
+          {
+            "title": "The future group: more than will",
+            "imageAsset": null,
+            "paragraphs": [
+              "Will is often used for decisions made at the moment of speaking, predictions, and promises. Be going to often suggests an earlier plan or a prediction based on present evidence.",
+              "Present Continuous can also show a near fixed arrangement, Future Continuous highlights something that will be in progress, and Future Perfect shows something completed before a future point."
+            ]
+          },
+          {
+            "title": "Perfect: connecting two time points",
+            "imageAsset": "did_you_know_english_tenses_perfect.webp",
+            "paragraphs": [
+              "Perfect tenses usually do more than say when something happened. They connect an earlier point to a later point and ask: by this time, is it completed, experienced, or creating a result?",
+              "Present Perfect connects the past with now: I have finished my homework. Past Perfect shows one event before another past point. Future Perfect shows completion before a future point."
+            ]
+          },
+          {
+            "title": "Continuous: putting the camera on the process",
+            "imageAsset": "did_you_know_english_tenses_continuous.webp",
+            "paragraphs": [
+              "Continuous tenses show an action as an unfolding process, not as one completed block. That is why they often appear with now, at that time, while, or contexts that are developing.",
+              "Some state verbs such as know, believe, like, and own are not usually used in continuous form in their basic meanings. When they appear in continuous form, the meaning often shifts or becomes more temporary."
+            ]
+          },
+          {
+            "title": "How to choose a tense when speaking or writing",
+            "imageAsset": null,
+            "paragraphs": [
+              "Do not ask first: which tense does this sentence need? Ask first: is the action present, past, or future; is it a habit, a finished event, an ongoing process, or a result that still matters?",
+              "Then check the time clue and your purpose. Yesterday often points to Past Simple; since and for often suggest Present Perfect or Present Perfect Continuous; by the time often creates a point for a Perfect tense."
+            ]
+          },
+          {
+            "title": "Common tense mistakes",
+            "imageAsset": null,
+            "paragraphs": [
+              "One common mistake is translating every Vietnamese đã into Present Perfect. If the sentence has a clear past time such as yesterday, last week, or in 2020, Past Simple is usually needed instead of Present Perfect.",
+              "Other common problems include using will for every future plan, forgetting auxiliaries in negatives and questions, or using Continuous with state verbs without noticing that the meaning has changed."
+            ]
+          },
+          {
+            "title": "A practical way to train tenses",
+            "imageAsset": null,
+            "paragraphs": [
+              "Take one event and write several versions: I study English every day. I am studying now. I studied yesterday. I have studied for two years. You will see that tense changes the point of view, not only the verb ending.",
+              "When reading English, underline time expressions, auxiliaries, and the main verb form. Then ask: does this sentence highlight a habit, a time point, a process, an experience, or a result? This builds tense awareness in real context."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "english-history",
+        "title": "Where did English come from?",
+        "subtitle": "A short history of English, from a local language in the British Isles to a language used widely around the world.",
+        "duration": "6 min read",
+        "category": "Language",
+        "thumbnailAsset": "did_you_know_english_history_cover_real.webp",
+        "coverAsset": "did_you_know_english_history_cover_real.webp",
+        "sections": [
+          {
+            "title": "A language shaped by many encounters",
+            "imageAsset": null,
+            "paragraphs": [
+              "English was not born as a global language. It began as a group of dialects in the British Isles, then kept changing as people migrated, traded, conquered, and exchanged culture.",
+              "That is why modern English feels like a history notebook: it carries traces of early Germanic speech, Norse, Norman French, Latin, and many other languages."
+            ]
+          },
+          {
+            "title": "Germanic roots and Old English",
+            "imageAsset": "did_you_know_english_history_origins_real.webp",
+            "paragraphs": [
+              "Around the 5th century, the Angles, Saxons, and Jutes moved to Britain. Their speech gradually formed Old English.",
+              "Many basic everyday words still have Germanic roots, especially words about family, the body, home, food, and common actions."
+            ]
+          },
+          {
+            "title": "Vikings, Normans, and borrowed words",
+            "imageAsset": "did_you_know_english_history_timeline_real.webp",
+            "paragraphs": [
+              "Vikings left Norse influence in several familiar words. Later, the Norman Conquest in 1066 brought Norman French into government, law, and culture.",
+              "This is one reason English has many near-synonyms with different tones. One word may sound everyday, while another sounds more formal because it came through French or Latin."
+            ]
+          },
+          {
+            "title": "Distant roots: from the Mediterranean to Rome",
+            "imageAsset": null,
+            "paragraphs": [
+              "The English alphabet is a branch of the Latin alphabet family. Further back, Latin was influenced by Greek; Greek was influenced by the Phoenician alphabet, a writing system used by Mediterranean traders in the ancient world.",
+              "A key step in the Greek adaptation was writing vowels as separate letters. This made the alphabet better suited to many European languages, where vowels strongly help distinguish one word from another.",
+              "The Romans adopted and adapted that system into the Latin alphabet. Over many centuries, the Latin alphabet became the foundation for writing English."
+            ]
+          },
+          {
+            "title": "From runes to Latin letters in England",
+            "imageAsset": null,
+            "paragraphs": [
+              "Before Latin letters became the main writing system, Anglo-Saxons used runes, often called futhorc. Runes worked well for carving on stone, wood, and objects, so they often appeared in names, ownership marks, and short messages.",
+              "From around the 7th century, Christianity and Latin writing culture spread in England. Latin letters were increasingly used for religious texts, learning, administration, and eventually for writing Old English itself.",
+              "The problem was that Old English had sounds that the Latin alphabet did not already represent neatly. Scribes had to borrow letters, adapt letters, or combine letters to write those sounds."
+            ]
+          },
+          {
+            "title": "Letters English once had and later lost",
+            "imageAsset": null,
+            "paragraphs": [
+              "Thorn (þ) and eth (ð) were used for th sounds. In Old English, they could be used fairly flexibly for sounds like those in thin and then, before the letter pair th became more familiar.",
+              "Wynn (ƿ) was borrowed from runes to represent the /w/ sound. Later, scribes used two u or v shapes together for this sound, which led to the letter W, called double-u in English.",
+              "Ash (æ) represented a vowel between a and e. Yogh (ȝ) grew out of a form of g in Insular script and survived into Middle English before many spellings shifted toward y, g, or gh.",
+              "These letters did not disappear because they were wrong. They faded because handwriting habits changed, Norman French-trained scribes influenced spelling, and later European printing type did not always include Old English characters."
+            ]
+          },
+          {
+            "title": "Why did it finally become 26 letters?",
+            "imageAsset": null,
+            "paragraphs": [
+              "From the 15th century, printing helped English spelling become more stable. As printers used continental European type, older letters such as þ, ð, and ƿ were gradually replaced by th, d, or w because they were easier to print and recognize.",
+              "For a long time, I and J were not clearly separate letters; U and V were also two forms of one letter. Gradually, I and U became more common for vowel sounds, while J and V became clearer consonant letters.",
+              "Modern English eventually settled on 26 letters. But this layered history explains why English spelling and pronunciation do not always match in a simple one-letter-one-sound way."
+            ]
+          },
+          {
+            "title": "Modern English became more stable",
+            "imageAsset": null,
+            "paragraphs": [
+              "From the late Middle Ages into the early modern period, printing, trade, education, and literature helped English spelling and usage become more standardized.",
+              "During this period, English also expanded its vocabulary through science, seafaring, literature, and contact with other parts of the world."
+            ]
+          },
+          {
+            "title": "From the British Isles to the wider world",
+            "imageAsset": "did_you_know_english_history_global_real.webp",
+            "paragraphs": [
+              "In the 19th and 20th centuries, trade, technology, science, film, music, and the internet helped English spread even further.",
+              "Today, many people use English as a shared language for study, work, and international connection, even when they are not native speakers."
+            ]
+          },
+          {
+            "title": "Origins make English easier to understand",
+            "imageAsset": null,
+            "paragraphs": [
+              "When you know that English was built in layers, strange spellings, pronunciations, and word families become less surprising.",
+              "A useful way to learn is to notice word families, origins, and context. You remember not only the meaning, but also why a word is used that way."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "eye-contact",
+        "title": "Eye contact: how to look natural",
+        "subtitle": "Eye contact does not mean staring. It is the skill of using your eyes just enough to show confidence, attention, and respect in conversation.",
+        "duration": "5 min read",
+        "category": "Communication",
+        "thumbnailAsset": "did_you_know_eye_contact_cover.webp",
+        "coverAsset": "did_you_know_eye_contact_cover.webp",
+        "sections": [
+          {
+            "title": "What is eye contact?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Eye contact means looking at someone's eyes or the area around their eyes while you communicate. In English-speaking settings, it is often understood as a sign of confidence, honesty, and active listening.",
+              "Good eye contact does not mean looking continuously. It feels natural when you look, pause briefly, and return at the right moment."
+            ]
+          },
+          {
+            "title": "Why does eye contact matter?",
+            "imageAsset": null,
+            "paragraphs": [
+              "When you listen, your eyes tell the speaker that you are still following the conversation. A small nod with eye contact feels very different from looking down at a phone.",
+              "When you speak, eye contact gives your message more weight. Listeners are more likely to feel that you believe what you are saying and that you are speaking directly to them.",
+              "Eye contact also helps you read reactions: whether the other person understands, feels confused, agrees, or wants to ask more."
+            ]
+          },
+          {
+            "title": "Easy technique: use the communication triangle",
+            "imageAsset": "did_you_know_eye_contact_triangle.webp",
+            "paragraphs": [
+              "If direct eye contact feels uncomfortable, look at the triangle between the two eyes and the bridge of the nose. The other person will usually still feel that you are making eye contact.",
+              "This is useful in interviews, presentations, and first conversations because it makes your gaze softer and less tense.",
+              "You can practice by looking near the eyes for 3 to 5 seconds, then glancing away gently before returning."
+            ]
+          },
+          {
+            "title": "How long should you look?",
+            "imageAsset": null,
+            "paragraphs": [
+              "In normal conversation, you can look more while listening, about 60 to 70 percent of the time. While speaking, you may look slightly less because you need moments to think.",
+              "A simple rhythm is: look when the other person gives the main point, glance away briefly while thinking, then return when you respond or emphasize something important.",
+              "If the conversation starts to feel tense, reduce the length of your gaze and soften your expression. Good eye contact should make people feel respected, not pressured."
+            ]
+          },
+          {
+            "title": "Eye contact is different from staring",
+            "imageAsset": "did_you_know_eye_contact_comparison.webp",
+            "paragraphs": [
+              "The most common mistake is looking too long without blinking or changing direction. This can make the other person feel examined.",
+              "On the other hand, looking down too often or constantly avoiding someone's eyes can make you seem unsure, uninterested, or unprepared.",
+              "The goal is not to win a staring contest. The goal is a natural communication rhythm: enough looking to connect, enough pauses to keep the other person comfortable."
+            ]
+          },
+          {
+            "title": "In presentations and group conversations",
+            "imageAsset": null,
+            "paragraphs": [
+              "Do not look at only one person. Divide the audience into zones: left, center, and right. Look at one zone for about 2 to 4 seconds before moving to another.",
+              "When you make an important point, look at one person or one small group instead of scanning too quickly. This makes your speech feel steadier and more connected."
+            ]
+          },
+          {
+            "title": "Cultural notes",
+            "imageAsset": null,
+            "paragraphs": [
+              "In many Western settings, moderate eye contact is often read as confident and trustworthy. In some Asian contexts, however, looking too long at elders or superiors may feel less tactful.",
+              "Watch the other person's reaction. If they look away often or seem uncomfortable, reduce the intensity of your eye contact and use your voice, smile, and gestures to stay friendly."
+            ]
+          },
+          {
+            "title": "Quick practice",
+            "imageAsset": null,
+            "paragraphs": [
+              "When practicing English speaking, record a 30-second answer. Watch it back and notice whether you look down too long, look away too much, or stare at one spot.",
+              "A simple exercise is to say three sentences, looking at the camera or listener for a few seconds in each sentence, then pausing briefly. As this rhythm becomes a habit, eye contact will feel more natural."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "vietnamese-english-mistakes",
+        "title": "Common English mistakes Vietnamese learners make",
+        "subtitle": "Many errors come from translating Vietnamese patterns too directly. Spot the pattern, then replace it with a natural English chunk.",
+        "duration": "5 min read",
+        "category": "Learning tips",
+        "thumbnailAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "coverAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "sections": [
+          {
+            "title": "Most mistakes have a reason",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese and English organize meaning in different ways. Vietnamese can leave out tense markers, articles, plurals, and some linking words when the context is clear; English often needs them on the page or in the sentence.",
+              "That means a mistake is not a sign that you are bad at English. It is often a clue that your brain is using a Vietnamese pattern in an English sentence."
+            ]
+          },
+          {
+            "title": "Do not put very before every verb",
+            "imageAsset": null,
+            "paragraphs": [
+              "A direct Vietnamese pattern can lead to: I very like this lesson. In English, very usually modifies adjectives or adverbs, not action verbs.",
+              "Use: I really like this lesson, I like this lesson very much, or I like this lesson a lot. Keep very for phrases like very good, very useful, and very quickly."
+            ]
+          },
+          {
+            "title": "Use one connector, not both",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese can pair reason and result in one sentence, so learners sometimes write: Because I was tired, so I went home. In standard English, because and so usually do the same linking job from opposite sides.",
+              "Use one: Because I was tired, I went home. Or: I was tired, so I went home. This small choice makes writing cleaner immediately."
+            ]
+          },
+          {
+            "title": "Do not let small endings disappear",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese words do not change form for he, yesterday, or many, so endings like -s, -ed, and plural -s are easy to miss.",
+              "Check three places: third-person verbs (She works), past verbs (I watched), and countable plurals (two questions). These tiny endings carry important grammar."
+            ]
+          },
+          {
+            "title": "A, an, and the need attention",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese has no direct equivalent of a/an/the. English uses articles to show whether something is new, specific, unique, or already known.",
+              "Say: I bought a book. The book is useful. Use a/an when introducing one countable thing, and the when the listener knows which thing you mean."
+            ]
+          },
+          {
+            "title": "Adjectives and adverbs sit in different places",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese word order often puts description after the noun, but English usually puts common adjectives before it: a beautiful house, not a house beautiful.",
+              "For adverbs, learn chunks instead of translating word by word: speak English well, work very hard, go home early, arrive at school on time."
+            ]
+          },
+          {
+            "title": "Prepositions rarely translate one by one",
+            "imageAsset": null,
+            "paragraphs": [
+              "Some natural Vietnamese choices point to the wrong English preposition. Learners may say depend of, married with, discuss about, or good in English.",
+              "Memorize the whole chunk: depend on, married to, discuss something, good at English, interested in, responsible for. A chunk is safer than a single preposition."
+            ]
+          },
+          {
+            "title": "Final sounds change meaning",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese has fewer final consonant clusters than English, so final /s/, /z/, /t/, /d/, /k/, and /n/ can become too soft or disappear.",
+              "Practice the ending as part of the word: likes, watched, asked, next, friend. You do not need to make endings loud; they just need to be clear enough for the listener."
+            ]
+          },
+          {
+            "title": "A quick correction habit",
+            "imageAsset": null,
+            "paragraphs": [
+              "After writing or speaking, ask three quick questions: Did I add the needed article? Did the verb show the right time or subject? Did I use a memorized chunk for the preposition?",
+              "Fixing these patterns gives a big improvement because the same small mistakes appear in emails, speaking tests, interviews, and daily conversation."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "one-word-many-meanings",
+        "title": "One familiar word, many meanings",
+        "subtitle": "Words like get, take, make, do, go, and keep do not have only one meaning. Learn them through chunks and context, and they become easier to use.",
+        "duration": "6 min read",
+        "category": "Vocabulary",
+        "thumbnailAsset": "did_you_know_one_word_many_meanings.webp",
+        "coverAsset": "did_you_know_one_word_many_meanings.webp",
+        "sections": [
+          {
+            "title": "Why can one word have many meanings?",
+            "imageAsset": null,
+            "paragraphs": [
+              "In English, the most common words are often the most flexible. They appear with many nouns, adjectives, prepositions, and situations, so their meaning changes with the chunk around them.",
+              "So do not learn English as if one English word always equals one Vietnamese word. A more practical method is to learn the whole chunk: what the word goes with, where it appears, and what the full sentence means."
+            ]
+          },
+          {
+            "title": "The more common a word is, the more flexible it becomes",
+            "imageAsset": null,
+            "paragraphs": [
+              "Words such as get, take, make, do, go, come, have, keep, run, work, look, put, break, and turn appear in many situations. Because they are used so often, they naturally develop several layers of meaning.",
+              "The key idea is that meaning does not live inside one word alone. Meaning often lives in the chunk: take a break, make a decision, do homework, go wrong, come true, keep calm."
+            ]
+          },
+          {
+            "title": "Get and take: receive, use, choose, or require time",
+            "imageAsset": null,
+            "paragraphs": [
+              "Get can mean receive, understand, become, or arrive: I got your message, I don’t get it, It’s getting cold, We got home late.",
+              "Take is also wide: take a photo, take a break, take medicine, It takes ten minutes, take a class. The object after take usually tells you the meaning."
+            ]
+          },
+          {
+            "title": "Make and do: create something or handle a task",
+            "imageAsset": null,
+            "paragraphs": [
+              "Make often relates to creating, causing, or producing a result: make a cake, make money, make a decision, make someone happy.",
+              "Do often appears with work, exercises, duties, or general actions: do homework, do exercise, do the dishes, do your best."
+            ]
+          },
+          {
+            "title": "Go and come: more than go away and come here",
+            "imageAsset": null,
+            "paragraphs": [
+              "Go can describe movement, but it can also describe change or a result: go wrong, go bad, go quiet, go home.",
+              "Come is not only about arriving. Come back means return, come true means become real, come first can mean be ranked first or appear first, and come with means be included."
+            ]
+          },
+          {
+            "title": "Have and keep: own, experience, hold, continue",
+            "imageAsset": null,
+            "paragraphs": [
+              "Have can mean own, eat or drink, experience, or need to do something: have a car, have lunch, have a good time, have to leave.",
+              "Keep can mean hold, store, maintain a state, or continue: keep a secret, keep calm, keep going, keep your phone in your bag."
+            ]
+          },
+          {
+            "title": "Run and work: move, operate, manage, succeed",
+            "imageAsset": null,
+            "paragraphs": [
+              "Run can mean move fast, operate a machine, manage something, or become used up: run fast, run a company, The app is running, run out of time.",
+              "Work is not only about having a job. It can mean function or succeed: My phone doesn’t work, This plan works, She works part-time."
+            ]
+          },
+          {
+            "title": "Look, put, break, turn: the chunk changes the meaning",
+            "imageAsset": null,
+            "paragraphs": [
+              "Look can mean see, seem, search, or care for someone: look at, look tired, look for, look after.",
+              "Put can mean place or move something into a state: put on a jacket, put away your books. Break can mean damage, rest, or violate a rule. Turn can mean rotate, change direction, become, or take a turn."
+            ]
+          },
+          {
+            "title": "How to study words like this",
+            "imageAsset": null,
+            "paragraphs": [
+              "Do not try to learn every meaning of one word at once. Each day, choose one familiar word, collect a few common chunks, and make sentences that are close to your real life.",
+              "For example: take a break, make a decision, do homework, go home, come back, have lunch, keep calm, run out of time, work well. When you take notes, save the whole chunk and sentence, not only the single word."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "everyday-conversation-phrases",
+        "title": "Everyday Conversation Phrases",
+        "subtitle": "Natural speaking is not only about knowing many words. It also comes from remembering short phrases people use every day.",
+        "duration": "6 min read",
+        "category": "Communication",
+        "thumbnailAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "coverAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "sections": [
+          {
+            "title": "Everyday conversation is built from chunks",
+            "imageAsset": null,
+            "paragraphs": [
+              "When people speak, they rarely build every sentence word by word. They use ready-made chunks such as No worries, Sounds good, Let me know, and On my way.",
+              "Learning chunks helps you respond faster because you do not need to translate each word from Vietnamese into English while speaking."
+            ]
+          },
+          {
+            "title": "Why short phrases matter",
+            "imageAsset": null,
+            "paragraphs": [
+              "A short phrase often carries meaning, tone, and politeness at the same time. Okay and Sounds good can both show agreement, but Sounds good often feels warmer and more natural.",
+              "When you learn a phrase, learn the situation too: with friends, coworkers, strangers, text messages, phone calls, or appointments."
+            ]
+          },
+          {
+            "title": "Opening a conversation",
+            "imageAsset": null,
+            "paragraphs": [
+              "Phrases like How's it going?, What's up?, Long time no see, and How have you been? help you start more naturally than repeating Hello every time.",
+              "How's it going? means a casual How are things? Long time no see is useful when you have not met someone for a while. How have you been? sounds a little warmer and more personal."
+            ]
+          },
+          {
+            "title": "Short natural responses",
+            "imageAsset": null,
+            "paragraphs": [
+              "When agreeing or replying, you can use Sounds good, Sure thing, No problem, No worries, That's fine, and Fair enough.",
+              "Sounds good means the plan is okay. No worries means it is not a problem. Fair enough means the other person's point is reasonable. These phrases make your replies sound less stiff."
+            ]
+          },
+          {
+            "title": "Making plans",
+            "imageAsset": null,
+            "paragraphs": [
+              "When inviting someone or agreeing on a time, useful phrases include Are you free?, That works for me, I'm on my way, Let's catch up, and See you then.",
+              "That works for me means the time or plan is okay. I'm on my way means you are traveling there now. Let's catch up means you want to meet and talk after some time."
+            ]
+          },
+          {
+            "title": "Polite requests",
+            "imageAsset": null,
+            "paragraphs": [
+              "Instead of sounding too direct with Give me or Help me, use Could you...?, Can I get...?, Would you mind...?, or Do you have a minute?",
+              "Could you help me with this? is polite and common. Can I get a coffee? is natural when ordering. Do you have a minute? is useful before asking for someone's time."
+            ]
+          },
+          {
+            "title": "When you need to clarify",
+            "imageAsset": null,
+            "paragraphs": [
+              "If you do not understand, do not stay silent. You can say Sorry, what do you mean?, Could you say that again?, Just to be clear..., or Let me check.",
+              "Just to be clear, we meet at 8, right? checks the detail before you move on. Let me check gives you a polite moment to confirm information."
+            ]
+          },
+          {
+            "title": "Small phrases that connect ideas",
+            "imageAsset": null,
+            "paragraphs": [
+              "Some small phrases make speech smoother: By the way, Actually, I mean, Kind of, I guess, You know. They help when you add information, correct yourself, or soften an idea.",
+              "By the way introduces a new point. Actually can correct or add nuance. I mean explains your meaning. Use fillers lightly; too many fillers can make speech less clear."
+            ]
+          },
+          {
+            "title": "Ending and following up",
+            "imageAsset": null,
+            "paragraphs": [
+              "After a conversation, phrases such as Let me know, I'll get back to you, Keep me posted, Talk to you later, and See you around are very useful.",
+              "Let me know asks someone to update you. I'll get back to you means you will reply later. Keep me posted means you want future updates."
+            ]
+          },
+          {
+            "title": "How to practice conversation phrases",
+            "imageAsset": null,
+            "paragraphs": [
+              "Choose five phrases each day and put them into a short dialogue. For example: Are you free tonight? Sounds good. I'm on my way. Let me know if anything changes.",
+              "Do not only memorize the Vietnamese meaning. Read the whole phrase aloud, notice its rhythm, then reuse it in a real message or sentence."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "confusing-english-words",
+        "title": "Commonly Confused English Words",
+        "subtitle": "Many English words look similar after translation, but they are used differently. Learn the situation, and choosing the right word becomes easier.",
+        "duration": "7 min read",
+        "category": "Vocabulary",
+        "thumbnailAsset": "did_you_know_confusing_english_words.webp",
+        "coverAsset": "did_you_know_confusing_english_words.webp",
+        "sections": [
+          {
+            "title": "They are confusing because translations are close",
+            "imageAsset": null,
+            "paragraphs": [
+              "A common vocabulary mistake is seeing two English words with a similar Vietnamese translation and using them as if they were the same. For example, say, tell, speak, and talk are all connected to speaking, but they do not behave the same way in a sentence.",
+              "A better method is to look at the role of the word: whether it needs a listener, whether it needs an object, whether the action is intentional, and which chunks commonly appear with it."
+            ]
+          },
+          {
+            "title": "Do not only ask what it means",
+            "imageAsset": null,
+            "paragraphs": [
+              "With confusing words, the better questions are: when do I use this word, what does it go with, and how is it different from the other word? One clear example is often more useful than a short translation.",
+              "When taking notes, write word pairs: when word A is used, when word B is used, then place two model sentences side by side so the difference is visible."
+            ]
+          },
+          {
+            "title": "Say, tell, speak, talk",
+            "imageAsset": null,
+            "paragraphs": [
+              "Say focuses on the words spoken: She said hello. Tell usually needs a listener or information being passed on: Tell me the truth. Tell him your name.",
+              "Speak often relates to ability, language, or a more formal situation: She speaks English. May I speak to Anna? Talk focuses more on conversation: We talked for an hour."
+            ]
+          },
+          {
+            "title": "Hear and listen",
+            "imageAsset": null,
+            "paragraphs": [
+              "Hear means that sound reaches your ears naturally, not always by choice. I heard a noise outside means the sound came to you.",
+              "Listen means you pay attention on purpose, and it often uses to before the object: Listen to this song. Please listen carefully."
+            ]
+          },
+          {
+            "title": "See, look, watch",
+            "imageAsset": null,
+            "paragraphs": [
+              "See means notice something with your eyes, often without emphasizing intention: I saw him at school. Look means direct your eyes somewhere: Look at the board.",
+              "Watch means look for a period of time because something is moving or developing: watch a movie, watch a game, watch the children play."
+            ]
+          },
+          {
+            "title": "Borrow and lend",
+            "imageAsset": null,
+            "paragraphs": [
+              "Borrow is from the receiver's point of view. Can I borrow your pen? means I want to use your pen for a short time.",
+              "Lend is from the giver's point of view. Can you lend me your pen? means can you give it to me temporarily? The meaning is close, but the direction is opposite."
+            ]
+          },
+          {
+            "title": "Bring and take",
+            "imageAsset": null,
+            "paragraphs": [
+              "Bring usually means carry something toward the speaker, listener, or a shared destination: Please bring your notebook to class.",
+              "Take usually means carry something away from the current place or with you to another place: Take an umbrella with you. I took my laptop to work."
+            ]
+          },
+          {
+            "title": "Make and do",
+            "imageAsset": null,
+            "paragraphs": [
+              "Make often relates to creating a result or product: make a cake, make a plan, make a decision, make progress.",
+              "Do often appears with tasks, exercises, chores, or general actions: do homework, do exercise, do the dishes, do your best."
+            ]
+          },
+          {
+            "title": "Fun and funny",
+            "imageAsset": null,
+            "paragraphs": [
+              "Fun describes something enjoyable or pleasant to do: The trip was fun. We had a fun day.",
+              "Funny often means amusing or strange, depending on context: That joke is funny. This milk smells funny means the milk smells strange."
+            ]
+          },
+          {
+            "title": "Late, later, lately",
+            "imageAsset": null,
+            "paragraphs": [
+              "Late means not on time: I was late for class. Later means after this or at a future time: See you later.",
+              "Lately means recently, often used with present perfect or to describe a recent situation: I haven't slept well lately."
+            ]
+          },
+          {
+            "title": "How to practice confusing words",
+            "imageAsset": null,
+            "paragraphs": [
+              "Choose one word pair, write two short sentences, then ask: Which sentence needs a listener? Which action is intentional? Which one moves toward here, and which one moves away?",
+              "You can keep notes with this pattern: confusing pair, key difference, common chunks, correct example, and mistake to avoid. Learning fewer pairs well is more useful than memorizing a long list."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

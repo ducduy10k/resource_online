@@ -1,0 +1,935 @@
+{
+  "version": 2,
+  "updatedAt": "2026-09-05T09:14:07.407Z",
+  "articles": {
+    "vi": [
+      {
+        "slug": "parts-of-speech",
+        "title": "10 loại từ cơ bản: Bản đồ giải mã cấu trúc câu",
+        "subtitle": "Tại sao từ \"Book\" lúc là danh từ, lúc lại là động từ? Nắm vững vai trò từng từ giúp bạn đọc hiểu câu dài mà không bị rối.",
+        "duration": "8 phút đọc",
+        "category": "Ngữ pháp nền tảng",
+        "thumbnailAsset": "did_you_know_parts_of_speech_cover.webp",
+        "coverAsset": "did_you_know_parts_of_speech_cover.webp",
+        "keyTakeaway": "Đừng chỉ nhìn mặt chữ! Một từ có thể đổi \"nghề\" tùy vào vị trí trong câu. Hãy luôn tìm Cặp Động Cơ (Chủ ngữ + Động từ chính) trước khi dịch nghĩa.",
+        "sections": [
+          {
+            "title": "Loại từ là 'công việc' của từ trong câu",
+            "imageAsset": null,
+            "paragraphs": [
+              "Một câu tiếng Anh không phải là chuỗi từ để dịch máy móc lần lượt từng chữ. Mỗi từ đang đảm nhận một nhiệm vụ riêng biệt: gọi tên sự vật, thực hiện hành động, mô tả đặc điểm, nối ý hoặc thể hiện cảm xúc tức thì.",
+              "Khi bạn hiểu nhiệm vụ của từng từ, bạn sẽ nhìn ra \"bộ khung\" của câu trước khi bận tâm dịch nghĩa. Câu dài đến 3-4 dòng cũng trở nên trong trẻo, sáng rõ vì bạn biết đâu là phần xương sống, đâu là phần bổ trợ."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Sự thật thú vị về tính linh hoạt",
+              "content": "Từ \"Book\" là danh từ trong \"a good book\" (cuốn sách hay), nhưng lại là động từ trong \"book a flight\" (đặt vé máy bay). Vị trí và nhiệm vụ quyết định tất cả!"
+            }
+          },
+          {
+            "title": "Bản đồ 10 nhóm từ thực hành",
+            "imageAsset": "did_you_know_parts_of_speech_roles.webp",
+            "paragraphs": [
+              "Thay vì học lý thuyết phức tạp, hãy nhớ 10 nhóm từ thực chiến: Noun (Danh từ), Pronoun (Đại từ), Verb (Động từ), Auxiliary/Modal (Trợ động từ), Adjective (Tính từ), Adverb (Trạng từ), Determiner (Từ hạn định), Preposition (Giới từ), Conjunction (Liên từ) và Interjection (Thán từ).",
+              "Một câu hoàn chỉnh tối thiểu phải có Động Cơ: Chủ ngữ (Noun/Pronoun) + Động từ chính (Verb). Tất cả các từ còn lại chỉ là \"phụ kiện\" thêm vào để câu sinh động hơn."
+            ],
+            "comparisons": [
+              {
+                "wrong": "She speaks English good.",
+                "right": "She speaks English well.",
+                "note": "Good là tính từ (bổ nghĩa danh từ). Well là trạng từ (bổ nghĩa cho động từ nói \"speaks\")."
+              },
+              {
+                "wrong": "I very like this song.",
+                "right": "I really like this song / I like this song very much.",
+                "note": "Very không bao giờ đứng trực tiếp bổ nghĩa cho động từ thường."
+              }
+            ]
+          },
+          {
+            "title": "Nhìn câu như một bản đồ đa tầng",
+            "imageAsset": "did_you_know_parts_of_speech_sentence_map.webp",
+            "paragraphs": [
+              "Thử bóc tách câu ví dụ: \"Wow! The curious student can quickly read a book in class, and she will answer well.\"",
+              "Khi phân tích: \"The curious student\" là cụm danh từ làm chủ ngữ; \"can quickly read\" là cụm động từ; \"a book\" là tân ngữ; \"in class\" là cụm giới từ chỉ địa điểm; \"and\" nối sang mệnh đề tiếp theo. Tách câu thành từng cụm nhỏ giúp việc đọc hiểu nhanh gấp 3 lần!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Bí kíp đọc nhanh",
+              "content": "Khi gặp câu dài: Bước 1 tìm Động từ chính -> Bước 2 tìm Ai làm hành động đó -> Bước 3 gom các cụm giới từ (in/on/at/with...) vào trong ngoặc để câu ngắn lại."
+            }
+          }
+        ]
+      },
+      {
+        "slug": "english-tenses",
+        "title": "Bản đồ các thì: Đừng học vẹt 12 công thức!",
+        "subtitle": "Thì tiếng Anh thực chất chỉ là phép nhân giữa 3 Mốc Thời Gian và 4 Góc Nhìn. Nắm chắc bản chất để nói chuẩn tự nhiên.",
+        "duration": "7 phút đọc",
+        "category": "Ngữ pháp",
+        "thumbnailAsset": "did_you_know_english_tenses_cover.webp",
+        "coverAsset": "did_you_know_english_tenses_cover.webp",
+        "keyTakeaway": "Thì tiếng Anh là sự kết hợp giữa Thời gian và Góc nhìn của người nói. Đừng học thuộc lòng, hãy đặt 3 câu hỏi: Đã xong chưa? Có mốc giờ không? Có dính líu đến hiện tại không?",
+        "sections": [
+          {
+            "title": "Công thức ma trận: 3 Mốc thời gian x 4 Góc nhìn",
+            "imageAsset": "did_you_know_english_tenses_cover.webp",
+            "paragraphs": [
+              "Nhiều bạn sợ thì tiếng Anh vì bị ép học thuộc 12 công thức như bảng cửu chương. Nhưng bản chất của thì vô cùng logic: 3 mốc thời gian (Quá khứ, Hiện tại, Tương lai) kết hợp cùng 4 góc nhìn hành động:",
+              "1. Đơn (Simple): Sự thật hiển nhiên, thói quen lặp lại.\n2. Tiếp diễn (Continuous): Đang diễn ra, mang tính tạm thời.\n3. Hoàn thành (Perfect): Cầu nối giữa hai thời điểm, nhấn mạnh kết quả.\n4. Hoàn thành tiếp diễn (Perfect Continuous): Nhấn mạnh sự liên tục và quá trình."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Tin vui giao tiếp",
+              "content": "Trong đời sống hàng ngày, người bản xứ sử dụng tới 85% thời lượng chỉ với 5 thì cơ bản: Hiện tại đơn, Hiện tại tiếp diễn, Quá khứ đơn, Hiện tại hoàn thành và Tương lai đơn!"
+            }
+          },
+          {
+            "title": "Cặp đối đầu kinh điển: Quá khứ đơn vs Hiện tại hoàn thành",
+            "imageAsset": "did_you_know_english_tenses_perfect.webp",
+            "paragraphs": [
+              "Đây là cái bẫy lớn nhất của người học Việt Nam vì tiếng Việt chỉ có từ \"đã\". Hãy nhớ quy tắc vàng:",
+              "• Quá khứ đơn (Past Simple): Dùng khi hành động ĐÃ CHẾT ở quá khứ và CÓ MỐC THỜI GIAN cụ thể (yesterday, last year, in 2020).\n• Hiện tại hoàn thành (Present Perfect): Dùng khi hành động bắt đầu ở quá khứ nhưng KẾT QUẢ hoặc DẤU VẾT còn dính dáng mật thiết tới hiện tại."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I lived here for 3 years (nhưng thực tế bạn vẫn đang sống ở đây).",
+                "right": "I have lived here for 3 years.",
+                "note": "Nếu dùng \"lived\", người nghe hiểu là bạn đã dọn đi nơi khác rồi."
+              },
+              {
+                "wrong": "Yesterday I have seen him.",
+                "right": "Yesterday I saw him.",
+                "note": "Đã có mốc thời gian quá khứ xác định (yesterday) thì bắt buộc dùng Quá khứ đơn."
+              }
+            ]
+          },
+          {
+            "title": "Tiếp diễn: Bức tranh đang chuyển động",
+            "imageAsset": "did_you_know_english_tenses_continuous.webp",
+            "paragraphs": [
+              "Hiện tại tiếp diễn không chỉ dùng cho \"ngay lúc này\", mà còn dùng cho những thay đổi mang tính tạm thời hoặc kế hoạch chắc chắn trong tương lai gần.",
+              "Ví dụ: \"I live in Hanoi\" (tôi định cư ở Hà Nội) vs \"I am living in Hanoi\" (tôi đang tạm trú ở Hà Nội một thời gian ngắn)."
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "3 Câu hỏi bỏ túi",
+              "content": "Trước khi nói hãy tự hỏi: 1. Hành động đã kết thúc hẳn chưa? 2. Có thời điểm cụ thể không? 3. Kết quả có quan trọng ở hiện tại không? Bạn sẽ chọn thì chuẩn xác 100%!"
+            }
+          }
+        ]
+      },
+      {
+        "slug": "english-history",
+        "title": "Tiếng Anh đến từ đâu: Bí mật con bò và miếng thịt",
+        "subtitle": "Tại sao con bò là COW nhưng thịt bò lại là BEEF? Lịch sử kỳ thú giúp bạn giải mã vì sao tiếng Anh viết một đằng đọc một nẻo.",
+        "duration": "6 phút đọc",
+        "category": "Ngôn ngữ",
+        "thumbnailAsset": "did_you_know_english_history_cover_real.webp",
+        "coverAsset": "did_you_know_english_history_cover_real.webp",
+        "keyTakeaway": "Tiếng Anh là ngôn ngữ lai tuyệt đẹp giữa gốc Anglo-Saxon và tiếng Pháp/Latinh. Dùng từ ngắn gọn cho đời thường và từ dài trang trọng cho văn viết.",
+        "sections": [
+          {
+            "title": "Nghịch lý con bò COW và đĩa thịt BEEF",
+            "imageAsset": "did_you_know_english_history_origins_real.webp",
+            "paragraphs": [
+              "Bạn có nhận ra sự kỳ lạ: con bò ngoài đồng là COW, con lợn là PIG, con cừu là SHEEP, nhưng khi lên đĩa thức ăn lại đổi tên thành BEEF, PORK và MUTTON?",
+              "Bí mật nằm ở năm 1066: Người Norman nói tiếng Pháp xâm chiếm nước Anh. Nông dân bản xứ nghèo chăn nuôi gia súc ngoài đồng thì dùng từ gốc Anglo-Saxon (cow, pig, sheep). Nhưng giới quý tộc Pháp ngồi trong lâu đài thưởng thức món ăn thì dùng từ gốc Pháp (bœuf -> beef, porc -> pork, mouton -> mutton)!"
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Con số giật mình",
+              "content": "Hơn 60% từ vựng tiếng Anh hiện đại bắt nguồn từ tiếng Pháp và tiếng Latinh, biến tiếng Anh thành một ngôn ngữ \"vay mượn\" vĩ đại nhất lịch sử!"
+            }
+          },
+          {
+            "title": "Biến cố Vowel Shift: Tại sao viết một đằng đọc một nẻo?",
+            "imageAsset": "did_you_know_english_history_timeline_real.webp",
+            "paragraphs": [
+              "Tại sao \"knight\" lại có chữ k câm? Tại sao chữ \"ea\" trong \"meat\" đọc là /i:/ nhưng trong \"great\" lại đọc là /eɪ/?",
+              "Vào thế kỷ 14 - 17, một hiện tượng biến đổi ngữ âm ồ ạt gọi là The Great Vowel Shift đã diễn ra: cách phát âm nguyên âm của người Anh thay đổi hoàn toàn, nhưng máy in sách lại vừa ra đời và cố định cách viết cũ. Hậu quả là chữ viết dừng lại ở thế kỷ 15, còn giọng đọc đã bay sang thế kỷ 21!"
+            ],
+            "comparisons": [
+              {
+                "wrong": "Commence your work right now! (trong văn nói thân mật hàng ngày)",
+                "right": "Start your work right now!",
+                "note": "Từ gốc Pháp/Latinh (commence, encounter) mang sắc thái trang trọng, văn nói nên dùng từ gốc Anglo-Saxon (start, meet)."
+              }
+            ]
+          },
+          {
+            "title": "Lan tỏa toàn cầu: Tiếng Anh thuộc về mọi người",
+            "imageAsset": "did_you_know_english_history_global_real.webp",
+            "paragraphs": [
+              "Ngày nay, số người dùng tiếng Anh như ngôn ngữ thứ hai đã vượt xa số người bản xứ. Không có một giọng tiếng Anh nào là \"chuẩn tuyệt đối\" duy nhất.",
+              "Đừng tự ti vì giọng (accent) của mình. Mục tiêu tối thượng của tiếng Anh là sự rõ ràng, dễ hiểu và kết nối con người với thế giới!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Chiến lược từ vựng 2 tầng",
+              "content": "Khi trò chuyện: ưu tiên từ gốc Anglo-Saxon ngắn gọn, gần gũi (help, ask, buy). Khi viết luận hoặc email công việc: dùng từ gốc Latinh/Pháp để tăng tính chuyên nghiệp (assist, inquire, purchase)."
+            }
+          }
+        ]
+      },
+      {
+        "slug": "eye-contact",
+        "title": "Nghệ thuật Eye Contact: Nhìn mắt thế nào cho quyến rũ?",
+        "subtitle": "Nhìn chằm chằm thì đáng sợ, né tránh thì thiếu tự tin. Nắm chắc quy tắc 50/70 và kỹ thuật tam giác ánh mắt.",
+        "duration": "5 phút đọc",
+        "category": "Giao tiếp",
+        "thumbnailAsset": "did_you_know_eye_contact_cover.webp",
+        "coverAsset": "did_you_know_eye_contact_cover.webp",
+        "keyTakeaway": "Giao tiếp mắt là biểu hiện của sự tự tin và chân thành. Nhớ quy tắc 50/70 và kỹ thuật tam giác ánh mắt để tạo thiện cảm ngay từ 3 giây đầu tiên.",
+        "sections": [
+          {
+            "title": "Quy tắc vàng 50/70 của chuyên gia",
+            "imageAsset": "did_you_know_eye_contact_cover.webp",
+            "paragraphs": [
+              "Giao tiếp mắt không phải là thi xem ai chớp mắt trước. Nhìn liên tục quá 5 giây sẽ biến cuộc trò chuyện thành một buổi thẩm vấn đầy căng thẳng!",
+              "Các nhà tâm lý học khuyên dùng tỷ lệ 50/70: Duy trì ánh mắt khoảng 50% thời gian khi bạn là người NÓI, và nâng lên 70% thời gian khi bạn là người LẮNG NGHE."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Tâm lý học hành vi",
+              "content": "Khi nói, não bộ cần quay đi để truy xuất dữ liệu suy nghĩ nên nhìn 50% là hoàn toàn tự nhiên. Nhưng khi nghe, duy trì 70% ánh mắt chứng minh bạn đang thật sự tôn trọng đối phương."
+            }
+          },
+          {
+            "title": "Kỹ thuật tam giác ánh mắt ma thuật",
+            "imageAsset": "did_you_know_eye_contact_triangle.webp",
+            "paragraphs": [
+              "Đừng dán chặt ánh mắt vào một đồng tử. Hãy tưởng tượng một hình tam giác ngược trên gương mặt người đối diện: Mắt trái -> Mắt phải -> Sống mũi.",
+              "Cứ sau mỗi 3 đến 5 giây, hãy khẽ chuyển điểm nhìn giữa 3 đỉnh tam giác này. Đối phương sẽ cảm thấy bạn nhìn họ vô cùng ấm áp, tập trung mà hoàn toàn thư giãn!"
+            ],
+            "comparisons": [
+              {
+                "wrong": "Cúi gằm mặt xuống đất hoặc nhìn vào mũi giày khi suy nghĩ.",
+                "right": "Nhìn sang ngang hoặc hơi ngước nhẹ lên kèm một nụ cười mỉm.",
+                "note": "Nhìn xuống đất gửi đi tín hiệu của sự tự ti, bối rối hoặc có lỗi."
+              }
+            ]
+          },
+          {
+            "title": "Bí kíp ngắt ánh mắt tinh tế",
+            "imageAsset": "did_you_know_eye_contact_comparison.webp",
+            "paragraphs": [
+              "Khi cần suy nghĩ câu trả lời, hãy từ tốn nhìn sang ngang hoặc nhìn lên trần nhà như thể bạn đang hình dung ý tưởng. Khi quay lại nối ánh mắt, hãy gật đầu nhẹ để kéo đối phương vào cuộc trò chuyện.",
+              "Trong các cuộc họp trực tuyến (Zoom/Teams), mẹo đỉnh cao là nhìn vào mắt Camera thay vì nhìn vào khung hình của người khác!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Thực hành hôm nay",
+              "content": "Bắt đầu từ những tương tác nhỏ: Nhìn vào mắt thu ngân khi nhận hóa đơn và nở nụ cười nói \"Thank you!\". Bạn sẽ thấy năng lượng tích cực lan tỏa tức thì!"
+            }
+          }
+        ]
+      },
+      {
+        "slug": "vietnamese-english-mistakes",
+        "title": "4 Lỗi phát âm kinh điển người Việt cần dẹp bỏ ngay",
+        "subtitle": "Tại sao người nước ngoài lại nghe like, life, light và line của bạn như nhau? Khắc phục hội chứng nuốt âm đuôi và phát âm bằng phẳng.",
+        "duration": "7 phút đọc",
+        "category": "Phát âm",
+        "thumbnailAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "coverAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "keyTakeaway": "Tiếng Anh là ngôn ngữ có trọng âm và âm đuôi. Hãy nói chậm lại, nhả rõ âm cuối và nhấn đúng trọng âm để phát âm lột xác 180 độ.",
+        "sections": [
+          {
+            "title": "Hội chứng \"nuốt âm đuôi\" (Ending Sounds)",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt là ngôn ngữ khép khẩu hình ở cuối, nên chúng ta có thói quen \"nuốt chửng\" các âm cuối như /s/, /z/, /t/, /d/, /k/, /l/.",
+              "Hậu quả là các từ: Life (cuộc sống), Like (thích), Light (ánh sáng), Line (hàng lối), Live (sống) nếu bỏ âm cuối thì người bản xứ nghe giống hệt nhau! Đây là nguyên nhân số 1 gây hiểu lầm khi giao tiếp."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I lai drink milk. (thiếu âm /k/)",
+                "right": "I like drink milk -> /laɪk/.",
+                "note": "Âm /k/ bật nhẹ ở cuống họng để phân biệt với lie, line, life."
+              },
+              {
+                "wrong": "Two cat, three book (quên âm số nhiều /s/, /z/).",
+                "right": "Two cats /kæts/, three books /bʊks/.",
+                "note": "Số nhiều bắt buộc phải có âm đuôi rõ ràng."
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Lưu ý nghiêm túc",
+              "content": "Nuốt âm đuôi trong tiếng Anh cũng tai hại như việc nói tiếng Việt mà bỏ hết dấu sắc, huyền, hỏi, ngã vậy!"
+            }
+          },
+          {
+            "title": "Bệnh \"bắn chữ S\" vô tội vạ",
+            "imageAsset": null,
+            "paragraphs": [
+              "Nhiều bạn sau khi biết mình hay quên /s/ thì lại chuyển sang cực đoan: thêm âm \"xì\" vào bất kỳ đâu có thể, kể cả những từ không hề có chữ S!",
+              "Ví dụ: \"I-s like-s learning-s English-s\". Điều này khiến câu nói bị vụn vỡ và nghe rất mất tự nhiên. Chỉ phát âm /s/ khi mặt chữ có s, c, hoặc x thực tế!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Quy tắc ngón tay",
+              "content": "Nói chậm lại 20%. Trước khi bật âm /s/, hãy nhìn xem chữ đó có đuôi s/es/c/x không. Chất lượng luôn quan trọng hơn tốc độ!"
+            }
+          },
+          {
+            "title": "Đọc bằng phẳng: Bỏ quên Trọng Âm Từ (Stress)",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt phát âm từng âm tiết đều nhau (đo - đo - đo). Nhưng tiếng Anh có TRỌNG ÂM: âm tiết chính phải được đọc CAO hơn, DÀI hơn và RÕ hơn (ĐO - đo - đo).",
+              "Ví dụ từ \"PHE-no-me-non\" hay \"COM-for-ta-ble\". Nếu bạn đọc bằng bằng không nhấn, người bản xứ phải mất vài giây mới \"dò kênh\" được bạn đang nói từ gì."
+            ],
+            "comparisons": [
+              {
+                "wrong": "Com-for-ta-ble (đọc đều 4 âm tiết)",
+                "right": "COMF-ta-ble (chỉ 3 âm tiết, nhấn mạnh âm đầu COMF)",
+                "note": "Rất nhiều từ tiếng Anh nuốt bớt âm yếu để tạo nhịp điệu dồn dập."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "one-word-many-meanings",
+        "title": "Từ \"RUN\" có 600 nghĩa: Bí quyết giải mã từ đa nghĩa",
+        "subtitle": "Đừng học từ vựng đơn lẻ từng chữ! Khám phá sức mạnh của Collocations và Phrasal Verbs để nói tiếng Anh biến hóa.",
+        "duration": "6 phút đọc",
+        "category": "Từ vựng",
+        "thumbnailAsset": "did_you_know_one_word_many_meanings.webp",
+        "coverAsset": "did_you_know_one_word_many_meanings.webp",
+        "keyTakeaway": "Không bao giờ học từ vựng cô độc! Hãy luôn \"đóng gói\" từ vựng vào một cụm từ đi kèm (Collocation) để diễn đạt tự nhiên như người bản ngữ.",
+        "sections": [
+          {
+            "title": "Kỷ lục gia mang tên \"RUN\"",
+            "imageAsset": null,
+            "paragraphs": [
+              "Từ điển Oxford ghi nhận từ \"RUN\" có tới hơn 640 định nghĩa khác nhau! Nếu bạn chỉ biết \"run\" là chạy bộ, bạn sẽ ngỡ ngàng khi nghe:",
+              "• Run a company: Điều hành một công ty\n• Run out of money: Cạn kiệt tiền bạc\n• My nose is running: Tôi đang bị sổ mũi\n• The bus runs every 15 minutes: Xe buýt chạy tuyến định kỳ"
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Hiện tượng Đa nghĩa (Polysemy)",
+              "content": "Các từ cơ bản nhất trong tiếng Anh (run, set, get, take, break) lại chính là những từ có nhiều nghĩa nhất, vì chúng được kết hợp liên tục với các giới từ để sinh ra nghĩa mới."
+            }
+          },
+          {
+            "title": "Sức mạnh của cụm từ đi liền (Collocations)",
+            "imageAsset": null,
+            "paragraphs": [
+              "Thay vì dịch từng chữ tiếng Việt sang tiếng Anh, hãy học theo \"khối từ\" (Chunks). Người bản xứ ghi nhớ ngôn ngữ theo khối chứ không ghép từng từ rời rạc.",
+              "Ví dụ với từ \"Heavy\": thay vì chỉ nhớ là nặng, hãy học cụm: Heavy rain (mưa xối xả), Heavy traffic (kẹt xe nghiêm trọng), Heavy smoker (người nghiện thuốc nặng)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "Strong rain / Big rain",
+                "right": "Heavy rain",
+                "note": "Mưa to trong tiếng Anh đi kèm với tính từ Heavy, không dùng Strong."
+              },
+              {
+                "wrong": "Make homework",
+                "right": "Do homework",
+                "note": "Bài tập về nhà dùng động từ DO, không dùng MAKE."
+              }
+            ]
+          },
+          {
+            "title": "Bí kíp tra từ điển như dân chuyên nghiệp",
+            "imageAsset": null,
+            "paragraphs": [
+              "Khi gặp một từ quen thuộc đặt vào câu nghe vô lý, đừng cố dịch gượng ép. Hãy mở từ điển Anh - Anh (như Cambridge hoặc Oxford Learner’s Dictionary), tìm cụm từ chứa từ đó và đọc ví dụ mẫu.",
+              "Ghi chép cả câu hoàn chỉnh vào sổ tay học từ. Bạn sẽ thấy vốn từ của mình phong phú lên trông thấy chỉ sau vài tuần!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Quy tắc vàng bỏ túi",
+              "content": "Học 1 từ mới = Học kèm 1 động từ hoặc danh từ đi với nó. Ví dụ: Đừng chỉ học \"decision\", hãy học \"MAKE a decision\"!"
+            }
+          }
+        ]
+      },
+      {
+        "slug": "everyday-conversation-phrases",
+        "title": "Xóa sổ \"Fine, thank you and you?\": Nói chuyện cực Tây",
+        "subtitle": "Cập nhật ngay những câu chào hỏi, đồng ý và tạm biệt tự nhiên, ấm áp mà người bản xứ sử dụng hàng ngày.",
+        "duration": "5 phút đọc",
+        "category": "Giao tiếp",
+        "thumbnailAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "coverAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "keyTakeaway": "Giao tiếp đời thực chuộng sự tự nhiên, ấm áp và ngắn gọn. Thay thế các mẫu câu cứng nhắc bằng các cụm từ đời thường để kết nối dễ dàng.",
+        "sections": [
+          {
+            "title": "Tại sao người Tây ít khi nói \"I'm fine\"?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Hầu như người Việt nào học tiếng Anh cũng được dạy mẫu câu: \"How are you? - I'm fine, thank you, and you?\". Nhưng ra đời thực, câu này nghe rất trịnh trọng, xa cách, hoặc thậm chí nghe như bạn đang có chuyện bực bội (\"I'm fine\" với giọng trầm nghĩa là \"Tôi không sao, đừng làm phiền tôi\")!",
+              "Hãy thay thế bằng những câu chào hỏi thân mật, tràn đầy năng lượng tích cực hơn nhiều."
+            ],
+            "comparisons": [
+              {
+                "wrong": "How are you? - I am fine, thank you, and you? (rập khuôn máy móc)",
+                "right": "How's it going? - Pretty good! How about you?",
+                "note": "Tự nhiên, thân thiện và tạo không khí cởi mở ngay lập tức."
+              }
+            ]
+          },
+          {
+            "title": "Bộ cụm từ chào hỏi & phản hồi cực chất",
+            "imageAsset": null,
+            "paragraphs": [
+              "Thay vì chỉ nói \"How are you?\", hãy thử:\n• How's it going? (Dạo này thế nào?)\n• How have you been? (Lâu rồi không gặp, dạo này khỏe không?)\n• What have you been up to? (Dạo này đang bận rộn dự án gì thế?)",
+              "Câu trả lời \"chuẩn Tây\":\n• Pretty good! (Khá ổn!)\n• Not bad! (Không tệ chút nào)\n• Can't complain! (Mọi thứ đều suôn sẻ)\n• Keeping busy! (Vẫn bận rộn như mọi khi)"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Đồng ý hào hứng",
+              "content": "Đừng chỉ nói \"Yes / I agree\". Hãy dùng: \"Definitely!\" (Chắc chắn rồi), \"Exactly!\" (Chuẩn luôn), \"That makes sense!\" (Nghe hợp lý đấy), \"You bet!\" (Đoán trúng phóc)!"
+            }
+          },
+          {
+            "title": "Nghệ thuật tạm biệt không sượng sùng",
+            "imageAsset": null,
+            "paragraphs": [
+              "Đừng đột ngột nói \"Goodbye!\" rồi quay lưng bước đi. Hãy tạo một bước đệm lịch sự trước khi rời đi:\n• \"Anyway, I should let you get back to work.\" (Thôi để bạn làm việc tiếp nhé)\n• \"I've gotta run! Catch you later!\" (Tôi có việc phải chạy rồi, gặp lại sau nhé!)\n• \"Take care!\" (Giữ gìn sức khỏe nhé!)"
+            ],
+            "comparisons": [
+              {
+                "wrong": "I have to go. Goodbye. (nghe hơi cụt lủn)",
+                "right": "Anyway, I should let you go. Have a great day! Catch you later!",
+                "note": "Tạo cảm giác bạn rất tôn trọng thời gian của đối phương."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "confusing-english-words",
+        "title": "Giải mã các cặp từ dễ gây lú nhất trong tiếng Anh",
+        "subtitle": "Say vs Tell vs Speak vs Talk? Hear vs Listen? Phân biệt rạch ròi bản chất để không bao giờ bị dùng sai.",
+        "duration": "8 phút đọc",
+        "category": "Từ vựng",
+        "thumbnailAsset": "did_you_know_confusing_english_words.webp",
+        "coverAsset": "did_you_know_confusing_english_words.webp",
+        "keyTakeaway": "Để không nhầm lẫn giữa các cặp từ tương đồng, hãy để ý: Mục tiêu người nghe, Hướng chuyển động và Tính chủ ý của hành động.",
+        "sections": [
+          {
+            "title": "Bộ tứ huyền thoại: Say, Tell, Speak hay Talk?",
+            "imageAsset": null,
+            "paragraphs": [
+              "Tiếng Việt đều dịch là \"nói\", nhưng tiếng Anh chia rất rõ vai trò:\n• SAY: Tập trung vào NỘI DUNG lời nói. Không có tân ngữ người ngay sau (She said that she loved him).\n• TELL: Bắt buộc phải có TÂN NGỮ NGƯỜI (Tell ME, tell HIM). Mang nghĩa kể hoặc bảo ai làm gì.\n• SPEAK: Mang tính trang trọng, dùng cho ngôn ngữ (I speak English) hoặc phát biểu trước đám đông.\n• TALK: Mang tính thân mật, trò chuyện hai chiều qua lại (talk with friends)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "She said me the truth.",
+                "right": "She told me the truth / She said the truth.",
+                "note": "Say không đi trực tiếp với tân ngữ người (me/him/them)."
+              },
+              {
+                "wrong": "I want to speak with you about our weekend plan.",
+                "right": "I want to talk with you about our weekend plan.",
+                "note": "Chuyện phiếm thân mật dùng TALK, không dùng SPEAK."
+              }
+            ]
+          },
+          {
+            "title": "Hear vs Listen to: Ai là người chủ động?",
+            "imageAsset": null,
+            "paragraphs": [
+              "• HEAR: Khả năng nghe thụ động của đôi tai. Âm thanh tự lọt vào tai dù bạn không hề muốn nghe (Did you hear that weird noise outside?).\n• LISTEN TO: Hành động chủ động tập trung chú ý lắng nghe (I am listening to an English podcast)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I am hearing music.",
+                "right": "I am listening to music.",
+                "note": "Thưởng thức âm nhạc là hành động có chủ ý, bắt buộc dùng LISTEN TO."
+              }
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Tương tự với See, Look và Watch",
+              "content": "SEE: Mở mắt ra là thấy tự nhiên. LOOK AT: Hướng mắt nhìn chăm chú vào vật tĩnh (Look at this picture). WATCH: Dõi theo vật đang chuyển động theo thời gian (Watch TV, watch a game)!"
+            }
+          },
+          {
+            "title": "Bring vs Take & Fun vs Funny",
+            "imageAsset": null,
+            "paragraphs": [
+              "• BRING: Mang lại GẦN vị trí người nói (Bring it here!).\n• TAKE: Mang đi XA khỏi vị trí người nói (Take your umbrella with you).\n\n• FUN: Danh từ/Tính từ chỉ sự VUI VẺ, THÚ VỊ (The trip was really fun!).\n• FUNNY: Tính từ chỉ cái gì đó BUỒN CƯỜI (làm bạn bật cười ha ha) hoặc KỲ LẠ/KHẢ NGHI (a funny smell)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "He is a fun guy (nếu ý bạn là anh ấy hay pha trò làm người khác cười).",
+                "right": "He is a funny guy! (Anh ấy rất hài hước, dí dỏm).",
+                "note": "Fun guy = người thú vị, dễ chịu khi ở cạnh. Funny guy = người làm bạn bật cười."
+              }
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Mẹo nhớ nhanh",
+              "content": "FUN = \"Thích thế!\" (vui vẻ). FUNNY = \"Haha!\" (buồn cười). Đừng bao giờ nhầm lẫn khi khen bạn bè nhé!"
+            }
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "slug": "parts-of-speech",
+        "title": "10 Parts of Speech: The Ultimate Sentence Map",
+        "subtitle": "Why is \"Book\" a noun in \"a book\", but a verb in \"book a room\"? Decode English sentence structure effortlessly.",
+        "duration": "8 min read",
+        "category": "Grammar Foundation",
+        "thumbnailAsset": "did_you_know_parts_of_speech_cover.webp",
+        "coverAsset": "did_you_know_parts_of_speech_cover.webp",
+        "keyTakeaway": "Look at the role, not just the spelling! Always locate the Subject + Verb engine before translating long sentences.",
+        "sections": [
+          {
+            "title": "A part of speech is a word's job in a sentence",
+            "imageAsset": null,
+            "paragraphs": [
+              "An English sentence is not a mere chain of words to translate sequentially. Every word performs a distinct job: naming an entity, executing an action, describing attributes, linking ideas, or expressing sudden emotion.",
+              "When you grasp these roles, you unlock the skeleton of any sentence before getting bogged down in vocabulary. Even 4-line sentences become crystal clear."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Fascinating Flexibility",
+              "content": "\"Book\" is a noun in \"a great book\", yet transforms into a verb in \"book a flight\". Context and syntactic position dictate everything!"
+            }
+          },
+          {
+            "title": "The 10 Practical Word Groups",
+            "imageAsset": "did_you_know_parts_of_speech_roles.webp",
+            "paragraphs": [
+              "Master these 10 actionable groups: Noun, Pronoun, Verb, Auxiliary/Modal, Adjective, Adverb, Determiner, Preposition, Conjunction, and Interjection.",
+              "Every complete sentence requires an Engine: Subject (Noun/Pronoun) + Main Verb. Everything else is functional decoration."
+            ],
+            "comparisons": [
+              {
+                "wrong": "She speaks English good.",
+                "right": "She speaks English well.",
+                "note": "Good is an adjective (modifies nouns). Well is an adverb (modifies the action of speaking)."
+              }
+            ]
+          },
+          {
+            "title": "Reading Sentences Like a Multi-Layer Map",
+            "imageAsset": "did_you_know_parts_of_speech_sentence_map.webp",
+            "paragraphs": [
+              "Analyze this sample: \"Wow! The curious student can quickly read a book in class, and she will answer well.\"",
+              "\"The curious student\" is the subject noun phrase; \"can quickly read\" is the verb phrase; \"a book\" is the object; \"in class\" is a prepositional phrase; \"and\" coordinates the next clause. Chunking makes long sentences effortless!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Speed Reading Tip",
+              "content": "Step 1: Spot the main verb -> Step 2: Identify who did it -> Step 3: Bracket prepositional phrases (in/on/at/with) to isolate the core idea."
+            }
+          }
+        ]
+      },
+      {
+        "slug": "english-tenses",
+        "title": "English Tenses: Stop Memorizing 12 Formulas!",
+        "subtitle": "Tenses are simply the intersection of 3 Timeframes and 4 Aspects. Master the logic to sound authentic.",
+        "duration": "7 min read",
+        "category": "Grammar",
+        "thumbnailAsset": "did_you_know_english_tenses_cover.webp",
+        "coverAsset": "did_you_know_english_tenses_cover.webp",
+        "keyTakeaway": "Tenses combine Time and Perspective. Ask three questions: Is it finished? Is there a timestamp? Does it impact the present?",
+        "sections": [
+          {
+            "title": "The Logic Matrix: 3 Times x 4 Aspects",
+            "imageAsset": "did_you_know_english_tenses_cover.webp",
+            "paragraphs": [
+              "Forget rote memorization. Tenses are purely logical: 3 timeframes (Past, Present, Future) multiplied by 4 action perspectives (Simple, Continuous, Perfect, Perfect Continuous).",
+              "Simple is for general facts/routines; Continuous highlights actions in progress; Perfect bridges two points in time emphasizing results; Perfect Continuous stresses duration."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Conversation Reality",
+              "content": "In daily life, native speakers utilize just 5 core tenses for over 85% of speech: Present Simple, Present Continuous, Past Simple, Present Perfect, and Future Simple!"
+            }
+          },
+          {
+            "title": "Past Simple vs. Present Perfect: The Ultimate Duel",
+            "imageAsset": "did_you_know_english_tenses_perfect.webp",
+            "paragraphs": [
+              "• Past Simple: The action is COMPLETED in the past with a specific past timestamp (yesterday, last year, in 2020).\n• Present Perfect: Connected to the present moment, emphasizing experience or ongoing consequences."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I lived here for 3 years (when you still currently live there).",
+                "right": "I have lived here for 3 years.",
+                "note": "Using \"lived\" implies you moved away."
+              },
+              {
+                "wrong": "Yesterday I have called him.",
+                "right": "Yesterday I called him.",
+                "note": "A past timestamp (yesterday) always demands Past Simple."
+              }
+            ]
+          },
+          {
+            "title": "Continuous Aspect: A Moving Picture",
+            "imageAsset": "did_you_know_english_tenses_continuous.webp",
+            "paragraphs": [
+              "Present Continuous captures not only \"right now\" but also temporary arrangements or scheduled near-future events.",
+              "Notice: \"I live in Hanoi\" (permanent home) vs \"I am living in Hanoi\" (temporary stay)."
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "The 3 Pocket Questions",
+              "content": "1. Is it dead and done? 2. Is there an exact time? 3. Does the result matter right now? These 3 questions will never fail you!"
+            }
+          }
+        ]
+      },
+      {
+        "slug": "english-history",
+        "title": "Why is a Cow in the Field, but Beef on the Plate?",
+        "subtitle": "A historical mystery that reveals why English words are spelled one way and pronounced another.",
+        "duration": "6 min read",
+        "category": "Language",
+        "thumbnailAsset": "did_you_know_english_history_cover_real.webp",
+        "coverAsset": "did_you_know_english_history_cover_real.webp",
+        "keyTakeaway": "English is an extraordinary hybrid of Germanic and Romance roots. Use short Anglo-Saxon words for daily chats, and French/Latin words for formal writing.",
+        "sections": [
+          {
+            "title": "The Cow vs Beef Enigma",
+            "imageAsset": "did_you_know_english_history_origins_real.webp",
+            "paragraphs": [
+              "Ever wonder why animals in fields are called Cow, Pig, and Sheep, while on dining tables they become Beef, Pork, and Mutton?",
+              "In 1066, French-speaking Normans conquered England. Saxon peasants tending livestock kept their Old English terms (cow, pig, sheep). Meanwhile, Norman nobility dining in castles used their French culinary terms (bœuf -> beef, porc -> pork, mouton -> mutton)!"
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Astounding Vocabulary Stat",
+              "content": "Over 60% of modern English vocabulary derives from French and Latin, making English the greatest borrowing language in human history!"
+            }
+          },
+          {
+            "title": "The Great Vowel Shift: Frozen Spellings",
+            "imageAsset": "did_you_know_english_history_timeline_real.webp",
+            "paragraphs": [
+              "Between the 14th and 17th centuries, pronunciation transformed drastically across England. However, the newly invented printing press permanently froze spellings in place.",
+              "Consequently, English spelling remains trapped in the 15th century while our pronunciation has evolved into the 21st century!"
+            ],
+            "comparisons": [
+              {
+                "wrong": "Commence your work immediately! (in casual daily speech)",
+                "right": "Start your work right away!",
+                "note": "French/Latin roots sound formal; Anglo-Saxon roots sound warm and conversational."
+              }
+            ]
+          },
+          {
+            "title": "Global English: A Language for All",
+            "imageAsset": "did_you_know_english_history_global_real.webp",
+            "paragraphs": [
+              "Today, non-native English speakers vastly outnumber native speakers. There is no single \"exclusive accent\".",
+              "Clarity, confidence, and connection are the true hallmarks of English fluency!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Two-Tier Vocabulary Strategy",
+              "content": "Use punchy Anglo-Saxon verbs for conversation (ask, buy, help), and save Latinate words for academic or corporate writing (inquire, purchase, assist)."
+            }
+          }
+        ]
+      },
+      {
+        "slug": "eye-contact",
+        "title": "The Art of Eye Contact: Confident Without Creeping",
+        "subtitle": "Staring is intimidating; looking away looks insecure. Master the 50/70 rule and the facial triangle method.",
+        "duration": "5 min read",
+        "category": "Communication",
+        "thumbnailAsset": "did_you_know_eye_contact_cover.webp",
+        "coverAsset": "did_you_know_eye_contact_cover.webp",
+        "keyTakeaway": "Eye contact projects confidence and warmth. Use the 50/70 rule and triangle technique to build instant rapport.",
+        "sections": [
+          {
+            "title": "The Golden 50/70 Rule",
+            "imageAsset": "did_you_know_eye_contact_cover.webp",
+            "paragraphs": [
+              "Eye contact is not a staring contest. Prolonged, unblinking eye contact past 5 seconds triggers fight-or-flight instincts!",
+              "Behavioral scientists advocate the 50/70 rule: Maintain eye contact roughly 50% of the time while SPEAKING, and 70% while LISTENING."
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Cognitive Science",
+              "content": "Looking away while speaking helps your brain access memories and formulate thoughts. Looking toward someone while listening proves you are genuinely engaged."
+            }
+          },
+          {
+            "title": "The Magic Triangle Technique",
+            "imageAsset": "did_you_know_eye_contact_triangle.webp",
+            "paragraphs": [
+              "Instead of locking onto a single pupil, envision an inverted triangle between their left eye, right eye, and bridge of the nose.",
+              "Gently cycle your focus between these points every 3 to 5 seconds. This creates an attentive yet wonderfully relaxed gaze."
+            ],
+            "comparisons": [
+              {
+                "wrong": "Looking straight down at the floor while pondering.",
+                "right": "Glancing sideways or slightly upward with a pleasant nod.",
+                "note": "Looking down signals insecurity, nervousness, or shame."
+              }
+            ]
+          },
+          {
+            "title": "Graceful Gaze Breaks",
+            "imageAsset": "did_you_know_eye_contact_comparison.webp",
+            "paragraphs": [
+              "When breaking eye contact to think, smoothly look sideways. When re-engaging, offer a gentle nod or smile to maintain conversational warmth.",
+              "In virtual meetings (Zoom/Teams), remember to glance into the camera lens, not just at the screen window!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Daily Micro-Practice",
+              "content": "Practice today: Make direct eye contact with the barista or cashier, smile, and say \"Thank you!\". Notice how the entire atmosphere brightens."
+            }
+          }
+        ]
+      },
+      {
+        "slug": "vietnamese-english-mistakes",
+        "title": "4 Pronunciation Traps Vietnamese Learners Must Break",
+        "subtitle": "Why do native speakers confuse your life, like, line, and light? Overcome swallowed endings and flat intonation.",
+        "duration": "7 min read",
+        "category": "Pronunciation",
+        "thumbnailAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "coverAsset": "did_you_know_vietnamese_english_mistakes.webp",
+        "keyTakeaway": "English relies on ending sounds and syllable stress. Slow down by 20%, release final consonants, and your accent will transform.",
+        "sections": [
+          {
+            "title": "The Swallowed Ending Sound Syndrome",
+            "imageAsset": null,
+            "paragraphs": [
+              "Vietnamese is a tonal language where syllable endings are closed. Consequently, learners unconsciously swallow crucial ending consonants like /s/, /z/, /t/, /d/, /k/, and /l/.",
+              "Words like Life, Like, Light, Line, and Live sound identical without their final releases, creating massive conversational confusion."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I lai drink milk. (missing the /k/ stop)",
+                "right": "I like drink milk -> /laɪk/.",
+                "note": "Release the crisp /k/ sound to prevent confusion with lie, life, or light."
+              }
+            ],
+            "callout": {
+              "type": "warning",
+              "title": "Crucial Realization",
+              "content": "Dropping ending consonants in English is just as destructive as dropping tone marks in Vietnamese!"
+            }
+          },
+          {
+            "title": "The Random \"S-Sprinkling\" Epidemic",
+            "imageAsset": null,
+            "paragraphs": [
+              "Upon discovering the importance of /s/, many learners overcorrect by sprinkling an \"S\" hiss onto every available word: \"I-s like-s learning-s English-s\".",
+              "Only pronounce /s/ or /z/ when spelled with an actual s, c, or x in the text!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Slow Down to Speed Up",
+              "content": "Pace your sentences deliberately. Crisp articulation at moderate tempo sounds infinitely more articulate than rushed, muffled speech."
+            }
+          },
+          {
+            "title": "Flat Intonation: Missing Word Stress",
+            "imageAsset": null,
+            "paragraphs": [
+              "English is stress-timed, not syllable-timed. Multisyllabic words always feature a primary stressed syllable: HIGHER in pitch, LONGER in duration, and CLEARER in articulation.",
+              "Words like \"COM-for-ta-ble\" or \"PHE-no-me-non\" collapse into incomprehensible mumbles if pronounced with flat, equal weight."
+            ],
+            "comparisons": [
+              {
+                "wrong": "Com-for-ta-ble (four equal flat beats)",
+                "right": "COMF-ta-ble (three syllables, punchy stress on COMF)",
+                "note": "Unstressed syllables naturally reduce to the relaxed schwa /ə/ sound."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "one-word-many-meanings",
+        "title": "Why \"RUN\" Has 600 Definitions: The Chunking Secret",
+        "subtitle": "Stop learning isolated words! Unlock the magic of Collocations and Phrasal Verbs to sound fluent.",
+        "duration": "6 min read",
+        "category": "Vocabulary",
+        "thumbnailAsset": "did_you_know_one_word_many_meanings.webp",
+        "coverAsset": "did_you_know_one_word_many_meanings.webp",
+        "keyTakeaway": "Never learn words in isolation. Always bundle vocabulary with its natural partner nouns or prepositions.",
+        "sections": [
+          {
+            "title": "The Word Champion: \"RUN\"",
+            "imageAsset": null,
+            "paragraphs": [
+              "The Oxford English Dictionary lists over 640 distinct definitions for \"RUN\". Jogging is just the tip of the iceberg:",
+              "• Run a business: Manage an enterprise\n• Run out of time: Deplete the clock\n• Runny nose: Nasal congestion\n• The bus runs every 15 minutes: Scheduled transit"
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Polysemy Power",
+              "content": "The most ubiquitous English verbs (run, set, get, make, break) boast the highest versatility because they combine endlessly with prepositions."
+            }
+          },
+          {
+            "title": "Collocations: Learning in Chunks",
+            "imageAsset": null,
+            "paragraphs": [
+              "Native speakers process language in natural chunks. Instead of memorizing \"heavy\" as just weighing a lot, learn its natural pairings:",
+              "Heavy rain (deluge), Heavy traffic (gridlock), Heavy smoker (frequent user)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "Strong rain / Big rain",
+                "right": "Heavy rain",
+                "note": "Heavy is the customary partner adjective for intense rainfall."
+              },
+              {
+                "wrong": "Make homework",
+                "right": "Do homework",
+                "note": "Routine academic tasks use DO, not MAKE."
+              }
+            ]
+          },
+          {
+            "title": "Professional Dictionary Strategy",
+            "imageAsset": null,
+            "paragraphs": [
+              "When a familiar word feels bizarre in a sentence, consult an English learner dictionary (Cambridge or Oxford) and look up the accompanying phrase.",
+              "Store the whole phrase in your study notes. Within weeks, your idiomatic fluency will skyrocket!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "The Golden Rule",
+              "content": "1 new word = 1 companion verb or noun. Never learn \"decision\" alone; learn \"MAKE a decision\"!"
+            }
+          }
+        ]
+      },
+      {
+        "slug": "everyday-conversation-phrases",
+        "title": "Ditch \"Fine, thank you\": Talk Like a True Native",
+        "subtitle": "Upgrade stiff textbook greetings with authentic, warm phrases used in everyday modern English.",
+        "duration": "5 min read",
+        "category": "Communication",
+        "thumbnailAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "coverAsset": "did_you_know_everyday_conversation_phrases.webp",
+        "keyTakeaway": "Real conversation thrives on warmth, brevity, and authentic flow. Swap sterile textbook scripts for modern idiomatic phrases.",
+        "sections": [
+          {
+            "title": "Why Native Speakers Rarely Say \"I'm fine\"",
+            "imageAsset": null,
+            "paragraphs": [
+              "Generations were drilled to recite: \"How are you? - I am fine, thank you, and you?\". In real life, this sounds robotic, distant, or even passive-aggressive (\"I'm fine\" with a flat tone means \"Leave me alone\")!",
+              "Refresh your repertoire with warm, high-energy greetings."
+            ],
+            "comparisons": [
+              {
+                "wrong": "How are you? - I am fine, thank you, and you? (robotic routine)",
+                "right": "How's it going? - Pretty good! How about you?",
+                "note": "Friendly, engaging, and sets an immediate relaxed rapport."
+              }
+            ]
+          },
+          {
+            "title": "Authentic Greeting Repertoire",
+            "imageAsset": null,
+            "paragraphs": [
+              "Modern casual openers:\n• How's it going? (Casual everyday check-in)\n• How have you been? (Great when catching up after a while)\n• What have you been up to? (Inquiring about recent projects)",
+              "Natural upbeat responses:\n• Pretty good!\n• Not bad at all!\n• Can't complain!\n• Keeping busy!"
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Enthusiastic Agreement",
+              "content": "Go beyond plain \"Yes\". Sprinkle in: \"Definitely!\", \"Exactly!\", \"You bet!\", \"That makes total sense!\""
+            }
+          },
+          {
+            "title": "The Graceful Exit",
+            "imageAsset": null,
+            "paragraphs": [
+              "Never abruptly cut the cord with a stark \"Goodbye\". Smooth your departure:\n• \"Anyway, I should let you get back to work.\"\n• \"I've gotta run! Catch you later!\"\n• \"Take care!\""
+            ],
+            "comparisons": [
+              {
+                "wrong": "I have to go. Goodbye. (abrupt and chilly)",
+                "right": "Anyway, I should let you go. Have a great one! Catch you later!",
+                "note": "Shows genuine respect for the other person's valuable time."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "confusing-english-words",
+        "title": "Say, Tell, Speak or Talk? Demystifying Confusing Pairs",
+        "subtitle": "Clear up common mix-ups: Hear vs Listen, See vs Look vs Watch, Bring vs Take, and Fun vs Funny.",
+        "duration": "8 min read",
+        "category": "Vocabulary",
+        "thumbnailAsset": "did_you_know_confusing_english_words.webp",
+        "coverAsset": "did_you_know_confusing_english_words.webp",
+        "keyTakeaway": "Distinguish tricky word pairs by tracking: the recipient listener, physical movement direction, and intentional effort.",
+        "sections": [
+          {
+            "title": "The Famous Quartet: Say, Tell, Speak or Talk?",
+            "imageAsset": null,
+            "paragraphs": [
+              "• SAY: Focuses on words uttered. No personal object directly follows (She said that she agreed).\n• TELL: Requires a recipient person object (Tell ME, tell HIM). Means instructing or informing.\n• SPEAK: Formal registers, speeches, or language fluency (speak English, speak at an AGM).\n• TALK: Conversational, back-and-forth dialogue among friends (talk about weekend plans)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "She said me the secret.",
+                "right": "She told me the secret / She said the secret.",
+                "note": "SAY never takes a direct personal object without \"to\"."
+              },
+              {
+                "wrong": "I need to speak with you about this cute cat video.",
+                "right": "I need to talk with you about this cute cat video.",
+                "note": "Informal friendly topics use TALK, not SPEAK."
+              }
+            ]
+          },
+          {
+            "title": "Hear vs Listen: Passive vs Active",
+            "imageAsset": null,
+            "paragraphs": [
+              "• HEAR: Involuntary auditory perception. Sound enters your ears whether you want it or not (Did you hear that thunder?).\n• LISTEN TO: Deliberate, focused attention (I am listening to music)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "I am hearing my favorite podcast.",
+                "right": "I am listening to my favorite podcast.",
+                "note": "Engaging intentionally with audio requires LISTEN TO."
+              }
+            ],
+            "callout": {
+              "type": "fact",
+              "title": "Same Principle: See, Look & Watch",
+              "content": "SEE: Natural sight with open eyes. LOOK AT: Directing gaze at stationary objects. WATCH: Following moving action over time (Watch a game, watch a movie)!"
+            }
+          },
+          {
+            "title": "Bring vs Take & Fun vs Funny",
+            "imageAsset": null,
+            "paragraphs": [
+              "• BRING: Motion TOWARD the speaker (Bring it here!).\n• TAKE: Motion AWAY from the speaker (Take this with you when you leave).\n\n• FUN: Enjoyable, pleasant, engaging (The party was so fun!).\n• FUNNY: Humorous, makes you laugh out loud (His jokes are funny), or strangely suspicious (a funny odor)."
+            ],
+            "comparisons": [
+              {
+                "wrong": "He is a fun guy (when meaning he tells great jokes that make you laugh).",
+                "right": "He is a funny guy!",
+                "note": "Fun guy = pleasant to be around. Funny guy = hilarious comedian."
+              }
+            ],
+            "callout": {
+              "type": "tip",
+              "title": "Quick Memory Trigger",
+              "content": "FUN = \"This is awesome!\" FUNNY = \"Haha!\" Never mix them up when complimenting your friends!"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
